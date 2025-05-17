@@ -22,6 +22,18 @@
     </a>
   </div>
 </div>
+<aside class="bg-info bg-gradient rounded-3 p-4 p-sm-5 mt-5">
+  <div class="d-flex align-items-center justify-content-between flex-column flex-xl-row text-center text-xl-start container">
+    <div class="mb-4 mb-xl-0">
+      <div class="fs-3 fw-bold text-white tx-vent">Tu <strong>PAGINA WEB para tu negocio A SOLO $5,000.00 mxn</strong></div>
+      <div class="text-white tx-vent1">Aprovecha nuestra gran <strong>oferta en tu primera pagina web</strong></div>
+      <div class="text-white tx-vent1">Incluye: catalogo de productos, buscador de productos, seccion de contacto,creacion de logo </div>
+    </div>
+    <div class="ms-xl-6">
+      <button class="btn btn-lg btn-outline-light" id="button-newsletter" type="button">¡ADQUIERELA YA!</button>
+    </div>
+  </div>
+</aside>
 <section class="bg-light py-5 sectionh">
   <div class="container px-5 my-5">
     <div class="text-center mb-5">
@@ -223,7 +235,7 @@
 
     <div class="col-lg-2 col-md-12 mb-4 mb-md-0">
       <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
-        <img src="<?= base_url ?>assets/img/images/laravel.png" class="w-100" />
+        <img src="<?= base_url ?>assets/img/images/node-js.png" class="w-100" />
         <a href="#!">
           <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
         </a>
@@ -241,7 +253,7 @@
 
     <div class="col-lg-2 col-md-12 mb-4 mb-md-0">
       <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
-        <img src="<?= base_url ?>assets/img/images/sass.png" class="w-100" />
+        <img src="<?= base_url ?>assets/img/images/css3.png" class="w-100"  width="75" height="95"/>
         <a href="#!">
           <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
         </a>
@@ -296,6 +308,8 @@
     </div>
   </div>
 </section>
+
+
 <div class="sectionc">
   <p class="text-center tit-cli">Nuestros Clientes</p>
   <div class="customer-logos container">

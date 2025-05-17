@@ -55,10 +55,11 @@
   <script src="<?= base_url ?>assets/js/slick.min.js"></script>
 </head>
 
-<body class="sb-nav-fixed ">
-  <div class=""    id="container">
+<body class="sb-nav-fixed">
+  <div id="container" >
 
-<!--   <nav class="text-white navbar navbar-expand-lg fixed-top" style="background-color: #000000;">
+  <nav class="text-white navbar navbar-expand-lg fixed-top" style="background-color: #000000;">
+    <div class="container">
   <a class="navbar-brand" href="<?= base_url ?>">
               <img src="<?= base_url ?>assets/img/logo/logo-team.png" class="d-inline-block align-top" width="100%" height="60" alt="">
             </a>
@@ -66,12 +67,12 @@
     <span class="navbar-toggler-icon"></span>
   </button>
 
-  <div class="collapse navbar-collapse container-fluid " id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto container-fluid"> -->
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
 <!--       <li class="nav-item active">
         <a class="menu-list" href="#"> <span class="sr-only">(current)</span></a>
       </li> -->
-    <!--   <li class="nav-item">
+   <!--    <li class="nav-item">
         <a class="menu-list" href="#">Camaras de Vigilancia</a>
       </li> -->
 <!--       <li class="nav-item dropdown">
@@ -79,75 +80,61 @@
           Punto de Venta
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-        <div class="dropdown-divider"></div>
+     <div class="dropdown-divider"></div>
 
       <img src="<?= base_url ?>assets/img/extrapos.svg" width="100%" height="90"  class="" alt="">Proximamente
-          <a class="dropdown-item" href="#">Extrapos</a>
-          <a class="dropdown-item" href="#">Another action</a>
-           <div class="dropdown-divider"></div>
-         <a class="dropdown-item" href="#">Something else here</a> 
+        <a class="dropdown-item" href="#">Extrapos</a>
+           <a class="dropdown-item" href="#">Another action</a> 
+        <div class="dropdown-divider"></div> 
+       <a class="dropdown-item" href="#">Something else here</a> 
         </div>
       </li> -->
-   <!--    <li class="li-menu nav-item">
-        <a class="menu-list" href="<?= base_url ?>desarrollo/index">Paginas Web</a>
-      </li> -->
-
-      <!--    <li class="li-menu nav-item">
+      <li class="nav-item">
               <a class="menu-list" href="<?= base_url ?>Soporte/index" style="">SOPORTE TECNICO</a>
-              
-            </li> -->
-
-              <!--  <li class="li-menu nav-item">
-              <a class="menu-list" href="<?= base_url ?>desarrollo/index" style="">PAGINAS WEB</a>
-            </li> -->
-
-  <!--     <li class="nav-item dropdown">
+            </li>
+      <li class="nav-item">
+        <a class="menu-list" href="<?= base_url ?>desarrollo/index">PAGINAS WEB</a>
+      </li>
+          <li class="nav-item">
+              <a class="btn btn-success" href="tel:+525518055852" role="button"><i class="fa fa-whatsapp" aria-hidden="true"></i>55 1805 5852</a>
+            </li>
+     <!--  <li class="nav-item dropdown">
         <a class="menu-list dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
          Community Manager
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-
            <a class="dropdown-item" href="#">Redes Sociales</a>
-            <a class="dropdown-item" href="#">Another action</a> 
-        <div class="dropdown-divider"></div> 
-       <a class="dropdown-item" href="#">Something else here</a> 
+          <a class="dropdown-item" href="#">Another action</a> 
+       <div class="dropdown-divider"></div> 
+         <a class="dropdown-item" href="#">Something else here</a> 
         </div>
       </li> -->
      <!--  <li class="nav-item">
         <a class="nav-link disabled" href="#">Disabled</a>
       </li> -->
-  <!--   </ul> -->
+    </ul>
    <!--  <form class="form-inline my-2 my-lg-0">
       <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
       <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
     </form> -->
-<!--   </div>
+  </div>
+
+  </div>
 </nav>
 
-  <div> -->
-
-
-
-
-
-
-
-
-  
+  <div>
+<!--   
   <nav class="navbar navbar-expand-lg navbar-light fixed-top text-white" id="" style="background-color: #000000;">
       <div class="container" id="cont-cero">
         <div id="cont-fig" class="">
           <figure id="fig-1" class="">
-              <a class="navbar-brand" href="<?= base_url ?>">
-              <img src="<?= base_url ?>assets/img/logo/logo-team.png" class="d-inline-block align-top" width="100%" height="60" alt="">
-            </a>
-    <!--         <a class="navbar-brand" href="<?= base_url ?>">
+            <a class="navbar-brand" href="<?= base_url ?>">
               <img src="<?= base_url ?>assets/img/logo/logo-team.png" class="d-inline-block align-top" alt="">
-            </a> -->
-      <!--       <figcaption class="">
+            </a>
+            <figcaption class="">
               <p class="text-center">TICDWEM</p>
               <p class="text-center">TU EMPRESA,TU CODIGO</p>
-            </figcaption>  -->
+            </figcaption> 
           </figure>
         </div>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation" style="background: #26de81;">
@@ -161,16 +148,16 @@
             <li class="li-menu nav-item">
               <a class="menu-list" href="<?= base_url ?>desarrollo/index" style="">PAGINAS WEB</a>
             </li>
-            <!-- <li class="li-menu nav-item">
+            <li class="li-menu nav-item">
             <img src="<?= base_url ?>assets/img/extrapos.svg" width="90" height="90"  class="" alt="">
-            </li> -->
+            </li>
             <li class="li-menu nav-item">
               <a class="menu-list" href="<?= base_url ?>#contact">CONTACTO</a>
             </li>
             <li class="nav-item">
-              <a class="btn btn-success" href="tel:+525518055852" role="button"><i class="fa fa-whatsapp" aria-hidden="true"></i> 55 1805 5852</a>
+              <a class="btn btn-success" href="tel:+525627720071" role="button"><i class="fa fa-whatsapp" aria-hidden="true"></i> 56 2772 0071</a>
             </li>
           </ul>
         </div>
       </div>
-    </nav>
+    </nav> -->
