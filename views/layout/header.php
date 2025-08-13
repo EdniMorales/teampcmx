@@ -96,7 +96,7 @@
         <a class="menu-list" href="<?= base_url ?>desarrollo/index">PAGINAS WEB</a>
       </li>
           <li class="nav-item">
-              <a class="btn btn-success" href="tel:+525518055852" role="button"><i class="fa fa-whatsapp" aria-hidden="true"></i>55 1805 5852</a>
+              <a class="btn btn-success" href="tel:+525518055852" role="button"><i class="fa fa-whatsapp" aria-hidden="true"></i> 55 1805 5852</a>
             </li>
      <!--  <li class="nav-item dropdown">
         <a class="menu-list dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
