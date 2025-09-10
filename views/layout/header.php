@@ -128,7 +128,7 @@
             <a class="navbar-brand" href="<?= base_url ?>">
               <img src="<?= base_url ?>assets/img/logo/logo-team.png" class="d-inline-block align-top" alt="">
             </a>
-            <figcaption class="">
+            <figcaption class="">33
               <p class="text-center">TICDWEM</p>
               <p class="text-center">TU EMPRESA,TU CODIGO</p>
             </figcaption> 
