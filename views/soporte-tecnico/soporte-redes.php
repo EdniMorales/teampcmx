@@ -152,8 +152,8 @@
           <p class="card-text text-white text-justify">Se conoce como cableado estructurado al sistema de cables, conectores, canalizaciones y dispositivos que permiten establecer una infraestructura de telecomunicaciones en un edificio. La instalación y las características del sistema deben cumplir con ciertos estándares para formar parte de la condición de cableado estructurado.</p>
         </div>
         <div class="card-footer ">
-          <a href="tel:5587403909" class="btn btn-warning"> <i class="fa fa-phone" aria-hidden="true"></i> Cotizar</a>
-          <a href="mailto:desarrollowebem@gmail.com" class="btn btn-info">Enviar Mensaje</a>
+         <!--  <a href="tel:5587403909" class="btn btn-warning"> <i class="fa fa-phone" aria-hidden="true"></i> Cotizar</a>
+          <a href="mailto:desarrollowebem@gmail.com" class="btn btn-info">Enviar Mensaje</a> -->
         </div>
       </div>
     </div>
@@ -192,8 +192,8 @@
           <p class="card-text text-justify">Es necesario darle mantenimiento a su computadora para evitar futuras fallas, a la cual se le aplicara un proceso de cambios y ajustes en hardware y software, logrando así un equipo en condiciones óptimas, durable y confiable reduciendo tiempos que pueden generarse en un servicio correctivo.</p>
         </div>
         <div class="card-footer">
-          <a href="tel:5587403909" class="btn btn-warning"> <i class="fa fa-phone" aria-hidden="true"></i> Cotizar</a>
-          <a href="mailto:desarrollowebem@gmail.com" class="btn btn-info">Enviar Mensaje</a>
+        <!--   <a href="tel:5587403909" class="btn btn-warning"> <i class="fa fa-phone" aria-hidden="true"></i> Cotizar</a>
+          <a href="mailto:desarrollowebem@gmail.com" class="btn btn-info">Enviar Mensaje</a> -->
         </div>
       </div>
     </div>
@@ -205,8 +205,8 @@
           <p class="card-text text-justify">Somos especialistas en el ensamblado de computadoras a elección del cliente, basándonos en los requerimientos del mismo para que sea de su agrado y le sea util en las tareas que desee realizar, eligiendo capacidad de Disco Duro, Memoria RAM, Tarjeta Madre,Tarjeta Grafica, Gabinete, Monitor LED, Teclado, Mouse y Bocinas.</p>
         </div>
         <div class="card-footer">
-          <a href="tel:5587403909" class="btn btn-warning"> <i class="fa fa-phone" aria-hidden="true"></i> Cotizar</a>
-          <a href="mailto:desarrollowebem@gmail.com" class="btn btn-info">Enviar Mensaje</a>
+        <!--   <a href="tel:5587403909" class="btn btn-warning"> <i class="fa fa-phone" aria-hidden="true"></i> Cotizar</a>
+          <a href="mailto:desarrollowebem@gmail.com" class="btn btn-info">Enviar Mensaje</a> -->
         </div>
       </div>
     </div>

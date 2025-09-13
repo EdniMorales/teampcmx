@@ -54,7 +54,7 @@ nav a{
 
 
 .menu-list {
-  color: #32ff7e;
+  color: #ffffff;
   position: relative;
   top: 20%;
   padding: 15px 12px 15px 12px;
@@ -71,7 +71,7 @@ nav a{
 
 @media (max-width: 986px) {
   .menu-list {
-    color: #32ff7e;
+    color: #ffffff;
     position: relative;
     top: 20%;
     padding: 7px 5px 7px 5px;
@@ -128,7 +128,7 @@ nav a{
 
 .ed-header {
   width: 100%;
-  height: 200px;
+  height: 500px;
 }
 
 .sectione {
@@ -185,7 +185,7 @@ nav a{
 }
 
 .sectionc {
-  margin-top: 5%;
+  margin-top: -10%;
   margin-bottom: -8%;
 }
 
@@ -216,8 +216,8 @@ nav a{
 }
 
 .sectiong {
-  margin-top: 1%;
-  margin-bottom: -15%;
+  margin-top: -10%;
+  margin-bottom: -1%;
 }
 
 .tit-cli {
@@ -255,7 +255,7 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75); */
 }
 
 .tit-client {
-  margin-top: 1%;
+  margin-top: -25%;
 }
 
 .img-client {
@@ -272,8 +272,13 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75); */
   margin-left: 13%;
 } 
 */
+
+.info-serv-hr{
+margin-top: 3%;
+}
 .info-serv {
-  font-size: 23px;
+  font-size: 26px;
+ 
 }
 
 .carro {
@@ -355,7 +360,7 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75); */
 
 .btn-serv1 {
   margin: 0 auto;
-  background: #2ecc71;
+  background: #ffffff;
 }
 
 #cont-cero {
@@ -403,7 +408,7 @@ figcaption p:nth-child(1) {
 }
 
 .menu-list {
-  color: #32ff7e;
+  color: #ffffff;
   position: relative;
   top: 20%;
   padding: 15px 12px 15px 12px;

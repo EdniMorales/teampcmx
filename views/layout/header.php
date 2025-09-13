@@ -55,10 +55,11 @@
 <body class="sb-nav-fixed">
   <div id="container" >
 
-  <nav class="text-white navbar navbar-expand-lg fixed-top" style="background-color: #000000;">
+  <nav class="text-white navbar navbar-expand-lg fixed-top" style="background-color: #000000ff;">
     <div class="container">
   <a class="navbar-brand" href="<?= base_url ?>">
               <img src="<?= base_url ?>assets/img/logo/logo-team.png" class="d-inline-block align-top" width="100%" height="60" alt="">
+         
             </a>
   <button class="navbar-toggler custom-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -86,15 +87,16 @@
        <a class="dropdown-item" href="#">Something else here</a> 
         </div>
       </li> -->
-      <li class="nav-item">
+    <!--   <li class="nav-item">
               <a class="menu-list" href="<?= base_url ?>Soporte/index" style="">SOPORTE TECNICO</a>
-            </li>
+            </li> -->
       <li class="nav-item">
         <a class="menu-list" href="<?= base_url ?>desarrollo/index">PAGINAS WEB</a>
       </li>
           <li class="nav-item">
               <a class="btn btn-success" href="tel:+525518055852" role="button"><i class="fa fa-whatsapp" aria-hidden="true"></i> 55 1805 5852</a>
             </li>
+      
      <!--  <li class="nav-item dropdown">
         <a class="menu-list dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
          Community Manager
