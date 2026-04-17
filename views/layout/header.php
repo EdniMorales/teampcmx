@@ -15,7 +15,7 @@
   </script>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Team Pc Mx Servicios Informaticos expertos en TI | Creacion de paginas web </title>
+  <title>Team Pc Mx | Reparacion y venta de computadoras </title>
   <meta name="description" content="pagina web,aplicaciones web,tu pagina web">
   <meta name="viewport"
     content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
