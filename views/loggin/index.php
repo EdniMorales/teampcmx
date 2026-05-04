@@ -95,6 +95,7 @@
         </div>
         <div class="card-body">
           <h5 class="card-title"><strong>Instalacion de camaras de vigilancia</strong></h5>
+          <p class="card-text"> Protege lo que más importa con nuestra instalación profesional de cámaras de vigilancia </p>
           <p class="card-text">Puede ser por una o más cámaras de vigilancia (DVR,IP) conectadas a uno o más monitores,que reproducen las imágenes o videos capturados por las cámaras. DESDE $4,999.00/mx </p>
           <a href="tel:5587403909" class="btn btn-warning"> <i class="fa fa-phone" aria-hidden="true"></i> Cotizar</a>
           <a href="mailto:desarrollowebem@gmail.com" class="btn btn-info">Enviar Mensaje</a>

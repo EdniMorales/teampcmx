@@ -44,7 +44,7 @@
         <h6 class="text-uppercase font-weight-bold text-light">Contacto</h6>
         <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto " style="width: 00px;">
         <p class="text-light"><i class="fa fa-map-marker mr-2"></i><a href="https://goo.gl/maps/D6494QNjkHq7u3MZ8" class="text-white">Geo Pueblo Nuevo Chalco C.P 56600 Chalco de Díaz Covarrubias Centro, Estado de Mexico</a></p>
-        <p class="text-light"><i class="fa fa-envelope mr-2"></i><a href="mailto:soporte@teampcmx.com" class="text-white">soporte@teampcmx.com</a></p>
+        <p class="text-light"><i class="fa fa-envelope mr-2"></i><a href="mailto:info@teampcmx.com" class="text-white">info@teampcmx.com</a></p>
         <p class="text-light"><i class="fa fa-mobile mr-2 mr-2" aria-hidden="true"></i><a href="tel:5518055852" class="text-white">(52) 55 1805 5852</a></p>
       </div>
     </div>
