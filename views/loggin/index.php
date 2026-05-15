@@ -1,5 +1,4 @@
-
-   <!-- <header class="sec-tit py-5 mb-5"> 
+<!-- <header class="sec-tit py-5 mb-5"> 
   <div class="container h-100 ">
     <div class="row h-100 align-items-center">
       <div class="col-lg-6">
@@ -41,72 +40,78 @@
   </div>
 </header> -->
 <header class="masthead">
-    <div class="container h-100">
-      <div class="row h-100 align-items-center">
-        <div class="col-6 text-left">
-          <h1 class="fw-light">Mantenimiento y Reparacion a tu computadora o laptop.</h1>
-          <p class="lead">Contamos con gran variedad en Servicios Informaticos</p>
-        </div>
-        <div class="col-6 text-center">
-            <img src="<?=base_url?>/assets/inicio/img-laptops.png" width="100%" height="480" alt="">
-          </div>
+  <div class="container h-100">
+    <div class="row h-100 align-items-center">
+      <div class="col-6 text-left">
+        <h1 class="fw-light">Mantenimiento y Reparacion a tu computadora o laptop.</h1>
+        <p class="lead">Contamos con gran variedad en Servicios Informaticos</p>
+      </div>
+      <div class="col-6 text-center">
+        <img src="<?=base_url?>/assets/inicio/img-laptops.png" width="100%" height="480" alt="">
       </div>
     </div>
-  </header>
+  </div>
+</header>
 <div class="sectione">
-      <div class="customer-logos1">
-        <div class="slide1"><img src="<?=base_url?>assets/img/images/ocelot-logo1.png" ></div>
-        <div class="slide1"><img src="<?=base_url?>assets/img/images/Logov2.png"></div>
-        <div class="slide1"><img src="<?=base_url?>assets/img/images/brother-logo.png"></div>
-        <div class="slide1"><img src="<?=base_url?>assets/img/images/br-logo.png"></div>
-        <div class="slide1"><img src="<?=base_url?>assets/img/images/logo-yeyian.png"></div>
-        <div class="slide1"><img src="<?=base_url?>assets/img/images/adata-logo.png"></div>
-        <div class="slide1"><img src="<?=base_url?>assets/img/images/d-link.png"></div>
-        <div class="slide1"><img src="<?=base_url?>assets/img/images/gigabyte-logo.jpg"></div>
-        <div class="slide1"><img src="<?=base_url?>assets/img/images/cooler-master-logo2015.png"></div>
-        <div class="slide1"><img src="<?=base_url?>assets/img/images/Razer-logo.png"></div>
-        <div class="slide1"><img src="<?=base_url?>assets/img/images/aerocool.png"></div>
-        <div class="slide1"><img src="<?=base_url?>assets/img/images/tp-link.png"></div>
-        <div class="slide1"><img src="<?=base_url?>assets/img/images/Asus.png"></div>
-        <div class="slide1"><img src="<?=base_url?>assets/img/images/code.jpeg"></div>
-        <div class="slide1"><img src="<?=base_url?>assets/img/images/hp.jpg"></div>
-        <div class="slide1"><img src="<?=base_url?>assets/img/images/xpg.png"></div>
-        <div class="slide1"><img src="<?=base_url?>assets/img/images/Samsung.jpg"></div>
-        <div class="slide1"><img src="<?=base_url?>assets/img/images/Logo-Rojo.png"></div>
-        <div class="slide1"><img src="<?=base_url?>assets/img/images/intellogo.jpg"></div>
-        <div class="slide1"><img src="<?=base_url?>assets/img/images/canon.png"></div>
-        <div class="slide1"><img src="<?=base_url?>assets/img/images/epson-logo.png"></div>
-        <div class="slide1"><img src="<?=base_url?>assets/img/images/logitech.png"></div>
-      </div>
+  <div class="customer-logos1">
+    <div class="slide1"><img src="<?=base_url?>assets/img/images/ocelot-logo1.png"></div>
+    <div class="slide1"><img src="<?=base_url?>assets/img/images/Logov2.png"></div>
+    <div class="slide1"><img src="<?=base_url?>assets/img/images/brother-logo.png"></div>
+    <div class="slide1"><img src="<?=base_url?>assets/img/images/br-logo.png"></div>
+    <div class="slide1"><img src="<?=base_url?>assets/img/images/logo-yeyian.png"></div>
+    <div class="slide1"><img src="<?=base_url?>assets/img/images/adata-logo.png"></div>
+    <div class="slide1"><img src="<?=base_url?>assets/img/images/d-link.png"></div>
+    <div class="slide1"><img src="<?=base_url?>assets/img/images/gigabyte-logo.jpg"></div>
+    <div class="slide1"><img src="<?=base_url?>assets/img/images/cooler-master-logo2015.png"></div>
+    <div class="slide1"><img src="<?=base_url?>assets/img/images/Razer-logo.png"></div>
+    <div class="slide1"><img src="<?=base_url?>assets/img/images/aerocool.png"></div>
+    <div class="slide1"><img src="<?=base_url?>assets/img/images/tp-link.png"></div>
+    <div class="slide1"><img src="<?=base_url?>assets/img/images/Asus.png"></div>
+    <div class="slide1"><img src="<?=base_url?>assets/img/images/code.jpeg"></div>
+    <div class="slide1"><img src="<?=base_url?>assets/img/images/hp.jpg"></div>
+    <div class="slide1"><img src="<?=base_url?>assets/img/images/xpg.png"></div>
+    <div class="slide1"><img src="<?=base_url?>assets/img/images/Samsung.jpg"></div>
+    <div class="slide1"><img src="<?=base_url?>assets/img/images/Logo-Rojo.png"></div>
+    <div class="slide1"><img src="<?=base_url?>assets/img/images/intellogo.jpg"></div>
+    <div class="slide1"><img src="<?=base_url?>assets/img/images/canon.png"></div>
+    <div class="slide1"><img src="<?=base_url?>assets/img/images/epson-logo.png"></div>
+    <div class="slide1"><img src="<?=base_url?>assets/img/images/logitech.png"></div>
+  </div>
 </div>
 <div class="container">
+
   <div class="row">
-    <div class="col-md-12 mb-5">   
-      <hr class="info-serv-hr">   
-      <p class="info-serv text-center">Si estas interesado en alguno de nuestros servicios llamanos o envianos un mensaje con tu propuesta.</p>
+    <div class="col-md-12 mb-5">
+      <hr class="info-serv-hr">
+      <p class="info-serv text-center">Si estas interesado en alguno de nuestros servicios llamanos o envianos un
+        mensaje con tu propuesta.</p>
       <hr>
     </div>
   </div>
+
   <div class="row">
+
     <div class="col-md-6 mb-5">
       <div class=" card h-100 wow bounceInUp">
         <div class="">
-          <img src="<?=base_url?>assets/img//images/ban-dahua1.jpg" width="100%" height="">
+          <img src="<?=base_url?>assets/img/images/ban-dahua1.jpg" width="100%" height="">
         </div>
         <div class="card-body">
-          <h5 class="card-title"><strong>Instalacion de camaras de vigilancia</strong></h5>
-          <p class="card-text"> Protege lo que más importa con nuestra instalación profesional de cámaras de vigilancia </p>
-          <p class="card-text">Puede ser por una o más cámaras de vigilancia (DVR,IP) conectadas a uno o más monitores,que reproducen las imágenes o videos capturados por las cámaras. DESDE $4,999.00/mx </p>
-          <a href="tel:5587403909" class="btn btn-warning"> <i class="fa fa-phone" aria-hidden="true"></i> Cotizar</a>
-          <a href="mailto:desarrollowebem@gmail.com" class="btn btn-info">Enviar Mensaje</a>
-          <button type="button" class="btn btn-success" data-toggle="modal" data-target="#exampleModalCenter">
-            Mas Info
-          </button>
-          <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+          <h5 class="card-title"><strong>Servicio Profesional de Instalación de Cámaras de Vigilancia</strong></h5>
+          <p class="card-text"> Protege lo que más importa con nuestro servicio especializado en instalación de cámaras
+            de seguridad para hogares, negocios, oficinas y bodegas. Contamos con tecnología moderna y personal
+            capacitado para brindarte soluciones de vigilancia confiables, eficientes y adaptadas a tus necesidades.</p>
+
+          <button type="button" class="btn btn-success" data-toggle="modal" data-target="#exampleModalCenter">Mas
+            Informacion</button>
+          <a href="tel:5518055852" class="btn btn-warning"> <i class="fa fa-phone" aria-hidden="true"></i> Cotizar</a>
+          <a href="mailto:info@teampcmx.com" class="btn btn-info">Enviar Mensaje</a>
+          <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog"
+            aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
             <div class="modal-dialog modal-dialog-centered" role="document">
               <div class="modal-content">
                 <div class="modal-header">
-                  <h5 class="modal-title" id="exampleModalCenterTitle">Informacion de Camaras de Vigialncia</h5>
+                  <h5 class="modal-title" id="exampleModalCenterTitle">Camaras de Vigilancia | Informacion</h5>
                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                   </button>
@@ -114,34 +119,58 @@
                 <div class="modal-body">
                   <div class="row">
                     <div class="col-lg-12">
-                      <div class="card text-white bg-primary mb-3" >
-                        <div class="card-header">¿Por que es importante una camara de vigilancia?</div>
+                      <div class="card text-white bg-primary mb-3">
+                        <div class="card-header">Seguridad en tiempo real</div>
                         <div class="card-body">
-                          <p class="card-text">Hoy en dia es importante tener una camara de vigilancia para tu seguridad a lo que mas quieres y respaldar de actos de cualquier situacion que afecten tu integridad</p>
-                          <p class="card-text">Te realizamos un presupuesto, cada Hogar o Negocio es diferente a si que es necesario realizar una valoracion de la estructura para poder instalar los dispositivos.</p>
+                          <p class="card-text">Mantén el control de tu propiedad desde cualquier lugar, nuestros
+                            sistemas permiten visualizar las cámaras en vivo desde tu smartphone, tablet o computadora,
+                            brindándote tranquilidad y seguridad las 24 horas.</p>
+                          <h3>¿Qué ofrecemos?</h3>
+                          <ul class="card-text" style="list-style-type:disc;">
+                            <li>Instalación de cámaras HD y Full HD</li>
+                            <li>Sistemas de monitoreo remoto desde celular</li>
+                            <li>Configuración de grabación 24/7</li>
+                            <li>Cámaras interiores y exteriores</li>
+                            <li>Visión nocturna y detección de movimiento</li>
+                            <li>Soporte técnico y mantenimiento</li>
+                            <li>Asesoría personalizada sin costo</li>
+                          </ul>
+                          <h3>Soluciones para:</h3>
+                          <ul class="card-text" style="list-style-type:disc;">
+                            <li>Casas y departamentos</li>
+                            <li>Oficinas y corporativos</li>
+                            <li>Locales comerciales</li>
+                            <li>Escuelas</li>
+                            <li>Bodegas y almacenes</li>
+                            <li>Estacionamientos</li>
+                          </ul>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
                 <div class="modal-footer">
-                <button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
+                  <button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
                 </div>
               </div>
             </div>
           </div>
         </div>
         <div class="card-footer text-muted">
-        Tendencia Tecnologica
+          Tendencia Tecnologica
         </div>
       </div>
     </div>
+
     <div class="col-md-6 mb-5 ">
       <div class=" card h-100 wow bounceInUp">
         <img class="card-img-top" src="<?=base_url?>assets/img/images/banner-redes-2.jpg" width="100%" alt="">
         <div class="card-body bg-primary">
           <h4 class="card-title text-white"><strong>Instalacion de Redes / SITE (Cibercafé)</strong></h4>
-          <p class="card-text text-white text-justify">Se conoce como cableado estructurado al sistema de cables, conectores, canalizaciones y dispositivos que permiten establecer una infraestructura de telecomunicaciones en un edificio. La instalación y las características del sistema deben cumplir con ciertos estándares para formar parte de la condición de cableado estructurado.</p>
+          <p class="card-text text-white text-justify">Se conoce como cableado estructurado al sistema de cables,
+            conectores, canalizaciones y dispositivos que permiten establecer una infraestructura de telecomunicaciones
+            en un edificio. La instalación y las características del sistema deben cumplir con ciertos estándares para
+            formar parte de la condición de cableado estructurado.</p>
         </div>
         <div class="card-footer ">
         </div>
@@ -153,7 +182,9 @@
         <img class="card-img-top" src="<?=base_url?>assets/img/soporte-tecnico/soporte-tecnico1.jpg" alt="">
         <div class="card-body">
           <h4 class="card-title">Reparación de Computadoras</h4>
-          <p class="card-text text-justify">Servicio para corregir el mal funcionamiento del Equipo de Cómputo como Computadoras, Servidores, Laptops, Netbooks, entre otros, con la reparación de EDNISOTEC tendras Garantía en cada servicio. La calidad en cada clic es nuestro trabajo</p>
+          <p class="card-text text-justify">Servicio para corregir el mal funcionamiento del Equipo de Cómputo como
+            Computadoras, Servidores, Laptops, Netbooks, entre otros, con la reparación de EDNISOTEC tendras Garantía en
+            cada servicio. La calidad en cada clic es nuestro trabajo</p>
         </div>
         <div class="card-footer">
         </div>
@@ -164,7 +195,11 @@
         <img class="card-img-top" src="<?=base_url?>assets/img/images/actualizar-pc.jpg" alt="">
         <div class="card-body">
           <h4 class="card-title">Actualización de Computadoras</h4>
-          <p class="card-text text-justify">Servicio en el cual asesoramos al cliente de manera adecuada para ampliar la vida de su computadora, aumentándole Memoria RAM (acelera el equipo) y Disco Duro (capacidad de almacenamiento) teniendo como objetivo acelerar su computadora que a su vez tendrá más capacidad de almacenar información. Tambien a actualizar el software o versiones recientes de Sistema Operativo si es que  el dispositivo cuenta con nuenas especificaciones</p>
+          <p class="card-text text-justify">Servicio en el cual asesoramos al cliente de manera adecuada para ampliar la
+            vida de su computadora, aumentándole Memoria RAM (acelera el equipo) y Disco Duro (capacidad de
+            almacenamiento) teniendo como objetivo acelerar su computadora que a su vez tendrá más capacidad de
+            almacenar información. Tambien a actualizar el software o versiones recientes de Sistema Operativo si es que
+            el dispositivo cuenta con nuenas especificaciones</p>
         </div>
         <div class="card-footer">
         </div>
@@ -175,10 +210,13 @@
         <img class="card-img-top" src="<?=base_url?>assets/img/images/mantenimiento-preventivo.jpg" alt="">
         <div class="card-body">
           <h4 class="card-title">Mantenimiento Preventivo</h4>
-          <p class="card-text text-justify">Es necesario darle mantenimiento a su computadora para evitar futuras fallas, a la cual se le aplicara un proceso de cambios y ajustes en hardware y software, logrando así un equipo en condiciones óptimas, durable y confiable reduciendo tiempos que pueden generarse en un servicio correctivo.</p>
+          <p class="card-text text-justify">Es necesario darle mantenimiento a su computadora para evitar futuras
+            fallas, a la cual se le aplicara un proceso de cambios y ajustes en hardware y software, logrando así un
+            equipo en condiciones óptimas, durable y confiable reduciendo tiempos que pueden generarse en un servicio
+            correctivo.</p>
         </div>
         <div class="card-footer">
-        <!--   <a href="tel:5587403909" class="btn btn-warning"> <i class="fa fa-phone" aria-hidden="true"></i> Cotizar</a>
+          <!--   <a href="tel:5587403909" class="btn btn-warning"> <i class="fa fa-phone" aria-hidden="true"></i> Cotizar</a>
           <a href="mailto:desarrollowebem@gmail.com" class="btn btn-info">Enviar Mensaje</a> -->
         </div>
       </div>
@@ -188,10 +226,13 @@
         <img class="card-img-top" src="<?=base_url?>assets/img/images/ensamble-pc.jpg" alt="">
         <div class="card-body">
           <h4 class="card-title">Ensamble de Computadoras</h4>
-          <p class="card-text text-justify">Somos especialistas en el ensamblado de computadoras a elección del cliente, basándonos en los requerimientos del mismo para que sea de su agrado y le sea util en las tareas que desee realizar, eligiendo capacidad de Disco Duro, Memoria RAM, Tarjeta Madre,Tarjeta Grafica, Gabinete, Monitor LED, Teclado, Mouse y Bocinas.</p>
+          <p class="card-text text-justify">Somos especialistas en el ensamblado de computadoras a elección del cliente,
+            basándonos en los requerimientos del mismo para que sea de su agrado y le sea util en las tareas que desee
+            realizar, eligiendo capacidad de Disco Duro, Memoria RAM, Tarjeta Madre,Tarjeta Grafica, Gabinete, Monitor
+            LED, Teclado, Mouse y Bocinas.</p>
         </div>
         <div class="card-footer">
-        <!--   <a href="tel:5587403909" class="btn btn-warning"> <i class="fa fa-phone" aria-hidden="true"></i> Cotizar</a>
+          <!--   <a href="tel:5587403909" class="btn btn-warning"> <i class="fa fa-phone" aria-hidden="true"></i> Cotizar</a>
           <a href="mailto:desarrollowebem@gmail.com" class="btn btn-info">Enviar Mensaje</a> -->
         </div>
       </div>
@@ -201,7 +242,10 @@
         <img class="card-img-top" src="<?=base_url?>assets/img/images/rebaling.jpg" alt="">
         <div class="card-body">
           <h4 class="card-title ">Reparación a Nivel Componente</h4>
-          <p class="card-text text-justify">Servicio para detectar y reparar fallas de componentes internos como: filtros condensadores, diodos, transistores, resistencias, sistema de carga, power jack, chip de video, logrando así que equipos que ya no enciendan o no cargen la batería vuelvan a funcionar sin ningún problema interviniendolos profesionalmente.</p>
+          <p class="card-text text-justify">Servicio para detectar y reparar fallas de componentes internos como:
+            filtros condensadores, diodos, transistores, resistencias, sistema de carga, power jack, chip de video,
+            logrando así que equipos que ya no enciendan o no cargen la batería vuelvan a funcionar sin ningún problema
+            interviniendolos profesionalmente.</p>
         </div>
         <div class="card-footer">
         </div>
@@ -210,8 +254,14 @@
     <div class="col-md-4 mb-5">
       <div class="card-body">
         <div id="fb-root"></div>
-        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v4.0"></script>
-        <div class="fb-page" data-href="https://www.facebook.com/EDNISOTEC/" data-tabs="timeline" data-width=""  data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/EDNISOTEC/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/EDNISOTEC/">EDNI-Soporte Técnico de Computadoras</a></blockquote></div>
+        <script async defer crossorigin="anonymous"
+          src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v4.0"></script>
+        <div class="fb-page" data-href="https://www.facebook.com/EDNISOTEC/" data-tabs="timeline" data-width=""
+          data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false"
+          data-show-facepile="true">
+          <blockquote cite="https://www.facebook.com/EDNISOTEC/" class="fb-xfbml-parse-ignore"><a
+              href="https://www.facebook.com/EDNISOTEC/">EDNI-Soporte Técnico de Computadoras</a></blockquote>
+        </div>
       </div>
     </div>
   </div>
@@ -224,7 +274,8 @@
         <div class="col-lg-10 col-xl-7">
           <div class="text-center tit-coop">
             <div class="fs-4 mb-4 fst-italic">"Se repara cualquier situación errónea de tu computadora o laptop.
-          Con mas de  5 años en el ambiente tecnologico, TEAM PC MX se pone a tu ordenes para poder solucionar cualquier inconveniente con tus dispositivos. Contactanos, lo mas importante son nuestros clientes!"</div>
+              Con mas de 5 años en el ambiente tecnologico, TEAM PC MX se pone a tu ordenes para poder solucionar
+              cualquier inconveniente con tus dispositivos. Contactanos, lo mas importante son nuestros clientes!"</div>
             <div class="d-flex align-items-center justify-content-center">
               <div class="fw-bold">
                 Edni Mo Dev
@@ -238,7 +289,6 @@
     </div>
   </div>
 </section>
-
 
 <div class="sectionc">
   <p class="text-center tit-cli">Nuestros Clientes</p>
@@ -292,45 +342,47 @@
           </div>
         </form>
         <div class="text-center text-md-left"><br>
-          <a class="btn btn-success text-white" onclick="document.getElementById('contact-form').submit();">Enviar Mensaje</a>
+          <a class="btn btn-success text-white" onclick="document.getElementById('contact-form').submit();">Enviar
+            Mensaje</a>
         </div>
         <div class="status"></div>
       </div>
       <div class="col-md-4 text-center">
         <p>Escuchanos en Spotify</p>
-        <iframe src="https://open.spotify.com/embed/episode/1itr3Kw46p55WzLcjSTxDW?t=1239076" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+        <iframe src="https://open.spotify.com/embed/episode/1itr3Kw46p55WzLcjSTxDW?t=1239076" width="100%" height="232"
+          frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
       </div>
     </div>
   </div>
 </section>
 
 <!-- Messenger Plugin de chat Code -->
-    <div id="fb-root"></div>
+<div id="fb-root"></div>
 
-    <!-- Your Plugin de chat code -->
-    <div id="fb-customer-chat" class="fb-customerchat">
-    </div>
+<!-- Your Plugin de chat code -->
+<div id="fb-customer-chat" class="fb-customerchat">
+</div>
 
-    <script>
-      var chatbox = document.getElementById('fb-customer-chat');
-      chatbox.setAttribute("page_id", "732033953547954");
-      chatbox.setAttribute("attribution", "biz_inbox");
-    </script>
+<script>
+  var chatbox = document.getElementById('fb-customer-chat');
+  chatbox.setAttribute("page_id", "732033953547954");
+  chatbox.setAttribute("attribution", "biz_inbox");
+</script>
 
-    <!-- Your SDK code -->
-    <script>
-      window.fbAsyncInit = function() {
-        FB.init({
-          xfbml            : true,
-          version          : 'v13.0'
-        });
-      };
-
-      (function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = 'https://connect.facebook.net/es_LA/sdk/xfbml.customerchat.js';
-        fjs.parentNode.insertBefore(js, fjs);
-      }(document, 'script', 'facebook-jssdk'));
-    </script>
+<!-- Your SDK code -->
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      xfbml: true,
+      version: 'v13.0'
+    });
+  };
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = 'https://connect.facebook.net/es_LA/sdk/xfbml.customerchat.js';
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
