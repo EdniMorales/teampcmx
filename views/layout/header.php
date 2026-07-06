@@ -55,7 +55,6 @@
   <script src="https://unpkg.com/gijgo@1.9.13/js/messages/messages.es-es.js" type="text/javascript"></script>
   <script src="https://kit.fontawesome.com/1849e1867b.js" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
-
   <script src="<?= base_url ?>assets/js/script.js"></script>
   <script src="<?= base_url ?>assets/js/wow.min.js"></script>
   <script src="<?= base_url ?>assets/js/funciones.js"></script>
@@ -64,7 +63,6 @@
 
 <body class="sb-nav-fixed">
   <div id="container">
-
     <nav class="text-white navbar navbar-expand-lg fixed-top" style="background-color: #000000ff;">
       <div class="container">
         <a class="navbar-brand" href="<?= base_url ?>">
@@ -76,29 +74,27 @@
           aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
-
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
-            <!--       <li class="nav-item active">
+               <li class="nav-item active">
         <a class="menu-list" href="#"> <span class="sr-only">(current)</span></a>
-      </li> -->
-            <!--    <li class="nav-item">
+      </li> 
+             <li class="nav-item">
         <a class="menu-list" href="#">Camaras de Vigilancia</a>
-      </li> -->
-            <!--       <li class="nav-item dropdown">
+      </li> 
+              <li class="nav-item dropdown">
         <a class="menu-list dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Punto de Venta
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
      <div class="dropdown-divider"></div>
-
       <img src="<?= base_url ?>assets/img/extrapos.svg" width="100%" height="90"  class="" alt="">Proximamente
         <a class="dropdown-item" href="#">Extrapos</a>
            <a class="dropdown-item" href="#">Another action</a> 
         <div class="dropdown-divider"></div> 
        <a class="dropdown-item" href="#">Something else here</a> 
         </div>
-      </li> -->
+      </li> 
             <!--   <li class="nav-item">
               <a class="menu-list" href="<?= base_url ?>Soporte/index" style="">SOPORTE TECNICO</a>
             </li> -->

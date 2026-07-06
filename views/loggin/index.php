@@ -43,11 +43,11 @@
   <div class="container h-100">
     <div class="row h-100 align-items-center">
       <div class="col-6 text-left">
-        <h1 class="fw-light">Mantenimiento y Reparacion a tu computadora o laptop.</h1>
-        <p class="lead">Contamos con gran variedad en Servicios Informaticos</p>
+        <h1 class="txt-title-intro fw-light">Mantenimiento y Reparacion a tu computadora o laptop.</h1>
+        <p class="txt-title-intro-2 lead">Contamos con gran variedad en Servicios Informaticos</p>
       </div>
       <div class="col-6 text-center">
-        <img src="<?=base_url?>/assets/inicio/img-laptops.png" width="100%" height="480" alt="">
+        <img src="<?=base_url?>/assets/inicio/laptop-gamer.png" width="100%" height="480" alt="">
       </div>
     </div>
   </div>
@@ -83,8 +83,7 @@
   <div class="row">
     <div class="col-md-12 mb-5">
       <hr class="info-serv-hr">
-      <p class="info-serv text-center">Si estas interesado en alguno de nuestros servicios llamanos o envianos un
-        mensaje con tu propuesta.</p>
+      <p class="info-serv text-center">- Conoce nuestros servicios -</p>
       <hr>
     </div>
   </div>

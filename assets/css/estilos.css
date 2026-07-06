@@ -11,7 +11,14 @@ body {
 .logo-im-team{
   margin-bottom: 3%;
 }
-
+.txt-title-intro{
+  font-size: 50px;
+  font-family: 'Agbalumo', sans-serif;
+}
+.txt-title-intro-2{
+  font-size: 30px;
+  font-family: 'Agbalumo', sans-serif;
+}
 .masthead {
 height: 600px;
 min-height: 660px;
@@ -20,6 +27,8 @@ background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
 color: #ffffff;
+font-family: 'Saira Semi Condensed', sans-serif;
+
 }
 header{
 -webkit-box-shadow: -1px 11px 36px -3px rgba(0,0,0,0.75);
@@ -278,8 +287,8 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75); */
 margin-top: 3%;
 }
 .info-serv {
-  font-size: 26px;
- 
+  font-size: 50px;
+  font-family: 'Agbalumo', sans-serif;
 }
 
 .carro {
