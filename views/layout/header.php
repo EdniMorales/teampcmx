@@ -76,9 +76,13 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
-               <li class="nav-item active">
+
+                  <li class="nav-item">
+              <a class="menu-list" href="<?= base_url ?>desarrollo/index">Gorilla System</a>
+            </li>
+            <!--    <li class="nav-item active">
         <a class="menu-list" href="#"> <span class="sr-only">(current)</span></a>
-      </li> 
+      </li>  -->
              <li class="nav-item">
         <a class="menu-list" href="#">Camaras de Vigilancia</a>
       </li> 
@@ -98,13 +102,17 @@
             <!--   <li class="nav-item">
               <a class="menu-list" href="<?= base_url ?>Soporte/index" style="">SOPORTE TECNICO</a>
             </li> -->
-         <!--    <li class="nav-item">
-              <a class="menu-list" href="<?= base_url ?>desarrollo/index">PAGINAS WEB</a>
-            </li> -->
-            <li class="nav-item">
+    
+            <li class="nav-item ms-auto">
               <a class="btn btn-success" href="tel:+525518055852" role="button"><i class="fa fa-whatsapp"
                   aria-hidden="true"></i> 55 1805 5852</a>
             </li>
+
+      <!--       <ul class="navbar-nav ms-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="#">Iniciar sesión</a>
+      </li>
+    </ul> -->
 
             <!--  <li class="nav-item dropdown">
         <a class="menu-list dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
