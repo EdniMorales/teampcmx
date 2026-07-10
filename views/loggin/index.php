@@ -252,7 +252,7 @@ En Teampcmx trabajamos para que tu equipo funcione de manera eficiente y segura.
 </div>
 <section id="contact" class="sectiond">
   <div class="container">
-    <h2 class="h1-responsive font-weight-bold text-center my-5">Tu opinion es muy importante para nosotros</h2>
+    <p class="font-weight-bold tit-cli text-center my-5">Tu opinion es muy importante para nosotros</p>
     <div class="row">
       <div class="col-md-8 mb-md-0 mb-5">
         <form id="contact-form" name="contact-form" action="mail.php" method="POST">
