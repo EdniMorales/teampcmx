@@ -1,44 +1,3 @@
-<!-- <header class="sec-tit py-5 mb-5"> 
-  <div class="container h-100 ">
-    <div class="row h-100 align-items-center">
-      <div class="col-lg-6">
-        <p class="txt-pag display-4 text-white mt-5 mb-2">Reparacion de Computadoras</p>
-        <p class="lead mb-5 text-white">
-          Se repara cualquier situación errónea de tu computadora o laptop (entre mas cosas).
-          Con mas de  5 años en el ambiente tecnologico, EDNI-Soporte Técnico  estamos a tu ordenes para poder  solucionar cualquier inconveniente con tus dispositivos. Contactanos, lo mas importante son nuestros clientes!
-        </p>22222257894561331
-      </div>
-      <div class="col-lg-6 mt-5 mb-2">
-        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">            
-          <ol class="carousel-indicators">
-            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-          </ol>
-          <div class="carousel-inner">
-            <div class="carousel-item active">
-              <img class="d-block carro" src="<?=base_url?>assets/img/soporte-tecnico/soporte-tecnico1.jpg" alt="First slide">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block carro" src="<?=base_url?>assets/img/soporte-tecnico/soporte-tecnico2.jpg" alt="Second slide">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block carro" src="<?=base_url?>assets/img/soporte-tecnico/soporte-tecnico4.jpg" alt="Third slide">
-            </div>
-          </div>
-          <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-          </a>
-          <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-</header> -->
 <header class="masthead">
   <div class="container h-100">
     <div class="row h-100 align-items-center">
@@ -79,7 +38,6 @@
   </div>
 </div>
 <div class="container">
-
   <div class="row">
     <div class="col-md-12 mb-5">
       <hr class="info-serv-hr">
@@ -87,9 +45,7 @@
       <hr>
     </div>
   </div>
-
   <div class="row">
-
     <div class="col-md-6 mb-5">
       <div class=" card h-100 wow bounceInUp">
         <div class="">
@@ -204,7 +160,7 @@
         </div>
       </div>
     </div>
-        <div class="col-md-4 mb-5">
+    <div class="col-md-4 mb-5">
       <div class="card h-100 wow bounceInRight" data-wow-delay="1s">
         <img class="card-img-top" src="<?=base_url?>assets/img/ensamble-gamer-1.jpg" alt="">
         <div class="card-body">
@@ -215,59 +171,9 @@
             LED, Teclado, Mouse y Bocinas.</p>
         </div>
         <div class="card-footer">
-          <!--   <a href="tel:5587403909" class="btn btn-warning"> <i class="fa fa-phone" aria-hidden="true"></i> Cotizar</a>
-          <a href="mailto:desarrollowebem@gmail.com" class="btn btn-info">Enviar Mensaje</a> -->
         </div>
       </div>
     </div>
-    <div class="col-md-4 mb-5">
-      <div class="card h-100 wow bounceInLeft" data-wow-delay="3s">
-        <img class="card-img-top" src="<?=base_url?>assets/img/mantenimiento-pc.jpg" alt="">
-        <div class="card-body">
-          <h4 class="card-title">Mantenimiento Preventivo</h4>
-          <p class="card-text text-justify">Es necesario darle mantenimiento a su computadora para evitar futuras
-            fallas, a la cual se le aplicara un proceso de cambios y ajustes en hardware y software, logrando así un
-            equipo en condiciones óptimas, durable y confiable reduciendo tiempos que pueden generarse en un servicio
-            correctivo.</p>
-        </div>
-        <div class="card-footer">
-          <!--   <a href="tel:5587403909" class="btn btn-warning"> <i class="fa fa-phone" aria-hidden="true"></i> Cotizar</a>
-          <a href="mailto:desarrollowebem@gmail.com" class="btn btn-info">Enviar Mensaje</a> -->
-        </div>
-      </div>
-    </div>
-<!-- 
-    <div class="col-md-4 mb-5">
-      <div class="card h-100 wow bounceInRight" data-wow-delay="2s">
-        <img class="card-img-top" src="<?=base_url?>assets/img/diagnostico-de-laptop.png" alt="">
-        <div class="card-body">
-          <h4 class="card-title ">Reparación a Nivel Componente</h4>
-          <p class="card-text text-justify">Servicio para detectar y reparar fallas de componentes internos como:
-            filtros condensadores, diodos, transistores, resistencias, sistema de carga, power jack, chip de video,
-            logrando así que equipos que ya no enciendan o no cargen la batería vuelvan a funcionar sin ningún problema
-            interviniendolos profesionalmente.</p>
-        </div>
-        <div class="card-footer">
-        </div>
-      </div>
-    </div> -->
-
-<!--     <div class="col-md-4 mb-5">
-      <div class="card-body">
-        <div id="fb-root"></div>
-        <script async defer crossorigin="anonymous"
-          src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v4.0"></script>
-        <div class="fb-page" data-href="https://www.facebook.com/EDNISOTEC/" data-tabs="timeline" data-width=""
-          data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false"
-          data-show-facepile="true">
-          <blockquote cite="https://www.facebook.com/EDNISOTEC/" class="fb-xfbml-parse-ignore"><a
-              href="https://www.facebook.com/EDNISOTEC/">EDNI-Soporte Técnico de Computadoras</a></blockquote>
-        </div>
-      </div>
-    </div>
-
- -->
-
     <div class="col-md-6 mb-5">
       <div class=" card h-100 wow bounceInUp">
         <div class="">
@@ -275,72 +181,16 @@
         </div>
         <div class="card-body">
           <h5 class="card-title"><strong>Reparación a Nivel Componente</strong></h5>
-          <p class="card-text"> Protege lo que más importa con nuestro servicio especializado en instalación de cámaras
-            de seguridad para hogares, negocios, oficinas y bodegas. Contamos con tecnología moderna y personal
-            capacitado para brindarte soluciones de vigilancia confiables, eficientes y adaptadas a tus necesidades.</p>
-
-          <button type="button" class="btn btn-success" data-toggle="modal" data-target="#exampleModalCenter">Mas
-            Informacion</button>
-          <a href="tel:5518055852" class="btn btn-warning"> <i class="fa fa-phone" aria-hidden="true"></i> Cotizar</a>
-          <a href="mailto:info@teampcmx.com" class="btn btn-info">Enviar Mensaje</a>
-          <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog"
-            aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-            <div class="modal-dialog modal-dialog-centered" role="document">
-              <div class="modal-content">
-                <div class="modal-header">
-                  <h5 class="modal-title" id="exampleModalCenterTitle">Camaras de Vigilancia | Informacion</h5>
-                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                  </button>
-                </div>
-                <div class="modal-body">
-                  <div class="row">
-                    <div class="col-lg-12">
-                      <div class="card text-white bg-primary mb-3">
-                        <div class="card-header">Seguridad en tiempo real</div>
-                        <div class="card-body">
-                          <p class="card-text">Mantén el control de tu propiedad desde cualquier lugar, nuestros
-                            sistemas permiten visualizar las cámaras en vivo desde tu smartphone, tablet o computadora,
-                            brindándote tranquilidad y seguridad las 24 horas.</p>
-                          <h3>¿Qué ofrecemos?</h3>
-                          <ul class="card-text" style="list-style-type:disc;">
-                            <li>Instalación de cámaras HD y Full HD</li>
-                            <li>Sistemas de monitoreo remoto desde celular</li>
-                            <li>Configuración de grabación 24/7</li>
-                            <li>Cámaras interiores y exteriores</li>
-                            <li>Visión nocturna y detección de movimiento</li>
-                            <li>Soporte técnico y mantenimiento</li>
-                            <li>Asesoría personalizada sin costo</li>
-                          </ul>
-                          <h3>Soluciones para:</h3>
-                          <ul class="card-text" style="list-style-type:disc;">
-                            <li>Casas y departamentos</li>
-                            <li>Oficinas y corporativos</li>
-                            <li>Locales comerciales</li>
-                            <li>Escuelas</li>
-                            <li>Bodegas y almacenes</li>
-                            <li>Estacionamientos</li>
-                          </ul>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="modal-footer">
-                  <button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
-                </div>
-              </div>
-            </div>
-          </div>
+          <p class="card-text text-justify">Servicio para detectar y reparar fallas de componentes internos como:
+            filtros condensadores, diodos, transistores, resistencias, sistema de carga, power jack, chip de video,
+            logrando así que equipos que ya no enciendan o no cargen la batería vuelvan a funcionar sin ningún problema
+            interviniendolos profesionalmente.</p>
         </div>
         <div class="card-footer text-muted">
           Tendencia Tecnologica
         </div>
       </div>
     </div>
-
-
-
     <div class="col-md-6 mb-5 ">
       <div class=" card h-100 wow bounceInUp">
         <img class="card-img-top" src="<?=base_url?>assets/img/mantenimiento-pc.jpg" width="100%" alt="">
@@ -355,76 +205,35 @@
         </div>
       </div>
     </div>
-
-
-
-
-
-
   </div>
 </div>
 
-<!-- <section>
   <div class="py-5 sectiong">
-    <div class="container px-5 my-5">
-      <div class="row gx-5 justify-content-center">
-        <div class="col-lg-10 col-xl-7">
-          <div class="text-center tit-coop">
-            <div class="fs-4 mb-4 fst-italic">"Se repara cualquier situación errónea de tu computadora o laptop.
-              Con mas de 5 años en el ambiente tecnologico, TEAM PC MX se pone a tu ordenes para poder solucionar
-              cualquier inconveniente con tus dispositivos. Contactanos, lo mas importante son nuestros clientes!"</div>
-            <div class="d-flex align-items-center justify-content-center">
-              <div class="fw-bold">
-                Edni Mo Dev
-                <span class="fw-bold text-success mx-1">/</span>
-                S.Coop. TEAMPCMX
-              </div>
-            </div>
-          </div>
+    <!-- Page Content-->
+    <div class="container px-4 px-lg-5">
+      <!-- Heading Row-->
+      <div class="row gx-4 gx-lg-5 align-items-center my-5">
+        <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0"
+            src="<?= base_url ?>assets/img/logo/logo-team.png" alt="..." /></div>
+        <div class="col-lg-5">
+          <h1 class="font-weight-light">Team PC MX</h1>
+          <p class="lead text-justify">Hola, somos Teampcmx, una empresa especializada en la reparación y mantenimiento de computadoras.
+
+Ofrecemos soluciones rápidas y confiables para equipos de escritorio y laptops, incluyendo diagnóstico, reparación, limpieza, optimización, instalación de programas y soporte técnico.
+
+En Teampcmx trabajamos para que tu equipo funcione de manera eficiente y segura.</p>
+
+        </div>
+      </div>
+      <!-- Call to Action-->
+      <div class="card text-white bg-secondary my-5 py-4 text-center">
+        <div class="card-body">
+          <p class="text-white m-0">This call to action card is a great place to showcase some important information or
+            display a clever tagline!</p>
         </div>
       </div>
     </div>
   </div>
-</section>
- -->
-
-<section>
-  <div class="py-5 sectiong">
-        <!-- Page Content-->
-        <div class="container px-4 px-lg-5">
-            <!-- Heading Row-->
-            <div class="row gx-4 gx-lg-5 align-items-center my-5">
-                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="<?= base_url ?>assets/img/logo/logo-team.png" alt="..." /></div>
-                <div class="col-lg-5">
-                    <h1 class="font-weight-light">Team PC MX</h1>
-                    <p class="lead text-justify">This is a template that is great for small businesses. It doesn't have too much fancy flare to it, but it makes a great use of the standard Bootstrap core components. Feel free to use this template for any project you want!</p>
-                   
-                </div>
-            </div>
-            <!-- Call to Action-->
-            <div class="card text-white bg-secondary my-5 py-4 text-center">
-                <div class="card-body"><p class="text-white m-0">This call to action card is a great place to showcase some important information or display a clever tagline!</p></div>
-            </div>
-        </div>
-    </div>
-    </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <div class="sectionc">
