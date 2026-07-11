@@ -235,6 +235,16 @@ nav a{
   font-size: 50px;
   font-family: 'Agbalumo', sans-serif;
 }
+.tit-cli-steve {
+  padding-top: 2%;
+  font-size: 25px;
+  font-family: 'Agbalumo', sans-serif;
+}
+.tit-cli-1 {
+  padding-top: 2%;
+  font-size: 15px;
+  font-family: 'Agbalumo', sans-serif;
+}
 
 .listas {
   list-style: none;
@@ -482,6 +492,12 @@ figcaption p:nth-child(1) {
 
 .txt-foot {
   font-size: 30px;
+  font-family: 'Agbalumo', sans-serif;
+}
+
+.txt-foot-1 {
+  font-size: 15px;
+  font-family: 'Agbalumo', sans-serif;
 }
 
 .cat-elec {

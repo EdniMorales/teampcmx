@@ -208,33 +208,27 @@
   </div>
 </div>
 
-  <div class="py-5 sectiong">
-    <!-- Page Content-->
-    <div class="container px-4 px-lg-5">
-      <!-- Heading Row-->
-      <div class="row gx-4 gx-lg-5 align-items-center my-5">
-        <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0"
-            src="<?= base_url ?>assets/img/logo/logo-team.png" alt="..." /></div>
-        <div class="col-lg-5">
-          <h1 class="font-weight-light">Team PC MX</h1>
-          <p class="lead text-justify">Hola, somos Teampcmx, una empresa especializada en la reparación y mantenimiento de computadoras.
-
-Ofrecemos soluciones rápidas y confiables para equipos de escritorio y laptops, incluyendo diagnóstico, reparación, limpieza, optimización, instalación de programas y soporte técnico.
-
-En Teampcmx trabajamos para que tu equipo funcione de manera eficiente y segura.</p>
-
-        </div>
+<div class="py-5 sectiong">
+  <div class="container px-4 px-lg-5">
+    <div class="row gx-4 gx-lg-5 align-items-center my-5">
+      <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0"
+          src="<?= base_url ?>assets/img/logo/logo-team.png" alt="..." /></div>
+      <div class="col-lg-5">
+        <h1 class="font-weight-light tit-cli text-center">Team PC MX</h1>
+        <p class="lead text-justify">Hola! somos Teampcmx, una empresa especializada en la reparación y mantenimiento de
+          computadoras.
+          Ofrecemos soluciones rápidas y confiables para equipos de escritorio y laptops, incluyendo diagnóstico,
+          reparación, limpieza, optimización, instalación de programas y soporte técnico.
+          En Teampcmx trabajamos para que tu equipo funcione de manera eficiente y segura.</p>
       </div>
-      <!-- Call to Action-->
-      <div class="card text-white bg-secondary my-5 py-4 text-center">
-        <div class="card-body">
-          <p class="text-white m-0">This call to action card is a great place to showcase some important information or
-            display a clever tagline!</p>
-        </div>
+    </div>
+    <div class="card text-white bg-primary my-5 py-4 text-center">
+      <div class="card-body">
+        <p class="text-white tit-cli-steve m-0">- La calidad es mucho más importante que la cantidad - | Steve Jobs |</p>
       </div>
     </div>
   </div>
-
+</div>
 
 <div class="sectionc">
   <p class="text-center tit-cli">Nuestros Clientes</p>
@@ -252,20 +246,20 @@ En Teampcmx trabajamos para que tu equipo funcione de manera eficiente y segura.
 </div>
 <section id="contact" class="sectiond">
   <div class="container">
-    <p class="font-weight-bold tit-cli text-center my-5">Tu opinion es muy importante para nosotros</p>
+    <p class="font-weight-bold tit-cli- text-center my-5">Tu opinion es muy importante para nosotros</p>
     <div class="row">
       <div class="col-md-8 mb-md-0 mb-5">
         <form id="contact-form" name="contact-form" action="mail.php" method="POST">
           <div class="row">
             <div class="col-md-6">
               <div class="md-form mb-0">
-                <label for="name" class="">NOMBRE:</label>
+                <label for="name" class="tit-cli-1">NOMBRE:</label>
                 <input type="text" id="name" name="name" class="form-control">
               </div>
             </div>
             <div class="col-md-6">
               <div class="md-form mb-0">
-                <label for="email" class="">CORREO ELECTRONICO:</label>
+                <label for="email" class="tit-cli-1">CORREO ELECTRONICO:</label>
                 <input type="text" id="email" name="email" class="form-control">
               </div>
             </div>
@@ -273,7 +267,7 @@ En Teampcmx trabajamos para que tu equipo funcione de manera eficiente y segura.
           <div class="row">
             <div class="col-md-12">
               <div class="md-form mb-0">
-                <label for="subject" class="">ASUNTO:</label>
+                <label for="subject" class="tit-cli-1">ASUNTO:</label>
                 <input type="text" id="subject" name="subject" class="form-control">
               </div>
             </div>
@@ -281,7 +275,7 @@ En Teampcmx trabajamos para que tu equipo funcione de manera eficiente y segura.
           <div class="row">
             <div class="col-md-12">
               <div class="md-form">
-                <label for="message">MENSAJE:</label>
+                <label for="message" class="tit-cli-1">MENSAJE:</label>
                 <textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea"></textarea>
               </div>
             </div>

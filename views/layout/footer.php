@@ -2,14 +2,14 @@
 </main>
 <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3766.3805587889183!2d-98.89948508468514!3d19.265809950984174!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce1f3231d3db91%3A0x75bd80c362b53ae5!2sTICDWEM!5e0!3m2!1ses-419!2smx!4v1629138357273!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe> -->
 <footer class="page-footer font-small unique-color-dark" style="background-color: #000000ff;">
-  <div style="background-color: #2df700ff;">
+  <div style="background-color: #00a8ff;">
     <div class="container">
       <div class="row py-4 d-flex align-items-center">
         <div class="col-md-6 col-lg-6 text-center text-white text-md-center mb-4 mb-md-0">
           <p class="txt-foot mb-0" id="animacion9">Llámanos estamos a tus ordenes!</p>
         </div>
-        <div class="col-md-2 col-lg-2 text-center text-white text-md-center mb-4 mb-md-0">
-          <h5 class="mb-0" id="animacion9">Todo el mundo debe conocer tu negocio</h5>
+        <div class="col-md-2 col-lg-2 text-center  text-white text-md-center mb-4 mb-md-0">
+          <p class="mb-0 txt-foot-1" id="animacion9">Todo el mundo debe conocer tu negocio</p>
         </div>
         <div class="col-md-4 col-lg-4 text-md-center">
           <a href="https://www.facebook.com/teampcmx/" class="icono fa fa-facebook"></a>
