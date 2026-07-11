@@ -499,7 +499,14 @@ figcaption p:nth-child(1) {
   font-size: 15px;
   font-family: 'Agbalumo', sans-serif;
 }
-
+.txt-foot-2 {
+  font-size: 15px;
+  font-family: 'Agbalumo', sans-serif;
+}
+.txt-foot-3 {
+  font-size: 15px;
+  font-family: 'Agbalumo', sans-serif;
+}
 .cat-elec {
   margin-bottom: 3%;
 }
