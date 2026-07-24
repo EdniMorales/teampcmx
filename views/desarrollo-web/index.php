@@ -1,187 +1,169 @@
-<header class="sec-tit-sweb py-5 mb-5">
-  <div class="container h-100 ">
-    <div class="row h-100 align-items-center">
-      <div class="col-lg-12">
-        <p class="txt-pag display-4 text-white mt-5 mb-2">
-          ¿QUIEN GESTIONA TUS REDES SOCIALES?</p>
-        <p class="lead mb-5 text-white text-justify">CONTAMOS CON AGENCIA DE REDES SOCIALES Y PUBLICIDAD DIGITAL</p>
-        <ul class="list-unstyled text-white">
-          <li><i class="fa fa-check" aria-hidden="true"></i> COMMUNITY MANAGER</li>
-          <li><i class="fa fa-check" aria-hidden="true"></i> PUBLICIDAD EN FACEBOOK</li>
-          <li><i class="fa fa-check" aria-hidden="true"></i> SOCIAL MEDIA MARKETING</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</header>
-<div class="container">
-  <div id="economic">
-    <div class="row">
-      <div class="col-lg-12">
-        <div class="card h-100 wow bounceInUp">
-          <div class="card-body">
-            <div class="col-lg-12  row mb-3">
-              <div class="col-lg-8">
-                <h4 class="card-title"><strong>PAQUETE ECONOMICO</strong></h4>
-                <div class="row">
-                  <div class="col-lg-6 text-justify-center">
-                    <ul class="list-unstyled">
-                      <p>Incluye:</p>
-                      <li><i class="fa fa-check" aria-hidden="true"></i> Diseño responsivo, podrás ver tu sitio web desde cualquier dispositivo móvil</li>
-                      <li><i class="fa fa-check" aria-hidden="true"></i> <strong>2 Secciones de navegacion</strong></li>
-                      <li><i class="fa fa-check" aria-hidden="true"></i> Enlace a su Facebook e Instagram</li>
-                      <li><i class="fa fa-check" aria-hidden="true"></i> 15 fotografias del negocio ó de productos</li>
-                      <li><i class="fa fa-check" aria-hidden="true"></i> 3 Imagenes en un Slider (carrusel de imágen con texto)</li>
-                      <li><i class="fa fa-check" aria-hidden="true"></i> Mapa de Google Maps con dirección de sus instalaciones</li>
-                    </ul>
-                  </div>
-                  <div class="col-lg-6 text-justify-center">
-                    <ul class="list-unstyled">
-                      <li><i class="fa fa-check" aria-hidden="true"></i> Hasta 10 imágenes de uso libre o proporcionadas por el cliente</li>
-                      <li><i class="fa fa-check" aria-hidden="true"></i> Formulario de Contacto Básico</li>
-                      <li><i class="fa fa-check" aria-hidden="true"></i> Enlace a su Facebook e Instagram</li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-4">
-                <img src="<?= base_url ?>assets/img/images/code1.jpg" class="serv-img">
-              </div>
-            </div>
-            <div class="card-footer">
-              <a href="tel:5587403909" class="btn btn-warning"> <i class="fa fa-phone" aria-hidden="true"></i> Cotizar</a>
-              <a href="mailto:desarrollowebem@gmail.com" class="btn btn-success">Enviar Mensaje</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <hr>
-  <div id="local">
-    <div class="row">
-      <div class="col-lg-12 bg-light">
-        <div class="card2 h-100 wow bounceInUp ">
-          <div class="card-body">
-            <div class="col-lg-12  row mb-3">
-              <div class="col-lg-4">
-                <img src="<?= base_url ?>assets/img/images/pag-web.png" class="serv-img">
-              </div>
-              <div class="col-lg-8">
-                <h4 class="card-title"><strong>PAQUETE LOCAL</strong></h4>
-                <div class="row">
-                  <div class="col-lg-6 text-justify-center">
-                    <ul class="list-unstyled">
-                      <p>Incluye:</p>
-                      <li><i class="fa fa-check" aria-hidden="true"></i> Diseño responsivo, podrás ver tu sitio web desde su dispositivo móvil</li>
-                      <li><i class="fa fa-check" aria-hidden="true"></i> 6 secciones de navegacion</strong></li>
-                      <li><i class="fa fa-check" aria-hidden="true"></i> Nivel de diseño Web Profesional</li>
-                      <li><i class="fa fa-check" aria-hidden="true"></i> Código optimizado</li>
-                      <li><i class="fa fa-check" aria-hidden="true"></i> Propuesta de diseño web, referente al modelo de negocio</li>
-                      <li><i class="fa fa-check" aria-hidden="true"></i> 20 fotografias del negocio ó de productos</li>
-                    </ul>
-                  </div>
-                  <div class="col-lg-6 text-justify-center">
-                    <ul class="list-unstyled">
-                      <li><i class="fa fa-check" aria-hidden="true"></i> Optimización SEO</li>
-                      <li><i class="fa fa-check" aria-hidden="true"></i> 1 cambio de información al mes durante 12 meses (no en estructura final de diseño).</li>
-                      <li><i class="fa fa-check" aria-hidden="true"></i> Enlace a su Facebook e Instagram</li>
-                    </ul>
-                  </div>
-                </div>
 
-              </div>
-            </div>
-            <div class="card-footer">
-              <a href="tel:5587403909" class="btn btn-warning"> <i class="fa fa-phone" aria-hidden="true"></i> Cotizar</a>
-              <a href="mailto:desarrollowebem@gmail.com" class="btn btn-success">Enviar Mensaje</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <hr>
-  <div id="pro" class="row">
-    <div class="col-lg-12 bg-light">
-      <div class="card h-100 wow bounceInUp ">
-        <div class="card-body">
-          <div class="col-lg-12  row mb-3">
-            <div class="col-lg-8">
-              <h4 class="card-title"><strong>PAQUETE PYMES</strong></h4>
-              <div class="row">
-                <div class="col-lg-6 text-justify-center">
-                  <ul class="list-unstyled">
-                    <p>Incluye:</p>
-                    <li><i class="fa fa-check" aria-hidden="true"></i> Propuesta de diseño web, referente al modelo de negocio</li>
-                    <li><i class="fa fa-check" aria-hidden="true"></i> <strong> Administrador de contenidos, Actualice la información de su sitio fácilmente sin depender de nadie.
-                        (incluye capacitación vía remota o manual de usuario)</strong></li>
-                    <li><i class="fa fa-check" aria-hidden="true"></i> 10 Secciones de navegacion</li>
-                    <li><i class="fa fa-check" aria-hidden="true"></i> 15 fotografias del negocio ó de productos</li>
-                    <li><i class="fa fa-check" aria-hidden="true"></i> 35 fotografias del negocio ó de productos</li>
-                    <li><i class="fa fa-check" aria-hidden="true"></i> Mapa de Google Maps con dirección de sus instalaciones</li>
-                  </ul>
+            <header class="bg-dark py-5">
+                <div class="container px-5">
+                    <div class="row gx-5 align-items-center justify-content-center">
+                        <div class="col-lg-8 col-xl-7 col-xxl-6">
+                            <div class="my-5 text-center text-xl-start">
+                                <h1 class="display-5 fw-bolder text-white mb-2">Sistemas Administrables a la medida y paginas web</h1>
+                                <h6 class="text-white-50 mb-4">Desarrollamos soluciones digitales personalizadas para tu negocio</h6>
+                                <p class="lead fw-normal text-white-50 mb-4 text-justify">Todo el mundo debe conocer tu negocio, desarrollamos software a la medida de tus necesidades e innovamos lo mejor en el mercado</p>
+                                <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
+                                    <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Cotiza ahora</a>
+                                    <a class="btn btn-outline-light btn-lg px-4" href="#!">Conocenos</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="<?=base_url?>assets/img/banners/desarrollo-web.jpg" alt="..." /></div>
+                    </div>
                 </div>
-                <div class="col-lg-6 text-justify-center">
-                  <ul class="list-unstyled">
-                    <li><i class="fa fa-check" aria-hidden="true"></i> 1 video en YouTube</li>
-                    <li><i class="fa fa-check" aria-hidden="true"></i> Formulario de Contacto</li>
-                    <li><i class="fa fa-check" aria-hidden="true"></i> Optimización SEO</li>
-                    <li><i class="fa fa-check" aria-hidden="true"></i> Posicionamiento en los buscadores Google y Bing</li>
-                    <li><i class="fa fa-check" aria-hidden="true"></i> Código optimizado</li>
-                    <li><i class="fa fa-check" aria-hidden="true"></i> Enlace a su Facebook e Instagram</li>
-                  </ul>
+            </header>
+            <!-- Features section-->
+            <section class="py-5" id="features">
+                <div class="container px-5 my-5">
+                    <div class="row gx-5">
+                        <div class="col-lg-4 mb-5 mb-lg-0"><h2 class="fw-bolder mb-0">Desarrollo de software a la medida de tu empresa</h2></div>
+                        <div class="col-lg-8">
+                            <div class="row gx-5 row-cols-1 row-cols-md-2">
+                                <div class="col mb-5 h-100">
+                                    <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-collection"></i></div>
+                                    <h2 class="h5">Adaptación exacta a tus procesos (sin funciones inútiles ni faltantes)</h2>
+                                    <p class="mb-0 text-justify">Un sistema a medida se diseña específicamente para la forma en que opera tu negocio: flujos de aprobación, roles de usuario, reportes clave, inventarios especiales, etc. Esto elimina el “calzador” de tener que cambiar tu forma de trabajar para adaptarte al software, y evita pagar por módulos que jamás usas.</p>
+                                </div>
+                                <div class="col mb-5 h-100">
+                                    <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-building"></i></div>
+                                    <h2 class="h5">Mayor eficiencia y productividad del equipo</h2>
+                                    <p class="mb-0 text-justify">Al tener solo las funciones que necesitas, con interfaces y automatismos diseñados para tus tareas diarias (ej. facturación automática desde producción, alertas de stock mínimo, conciliación bancaria integrada), los empleados trabajan más rápido, comenten menos errores y dedican menos tiempo a tareas manuales o parches entre sistemas.</p>
+                                </div>
+                                <div class="col mb-5 mb-md-0 h-100">
+                                    <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-toggles2"></i></div>
+                                    <h2 class="h5">Escalabilidad y evolución contigo</h2>
+                                    <p class="mb-0 text-justify">A diferencia de un software cerrado, un sistema a medida se puede ampliar y modificar cuando tu empresa crece: nuevas sucursales, integración con proveedores, más usuarios, reportes de analytics avanzados, etc. No quedas atrapado en las limitaciones de una versión estándar ni pagando costosas licencias por funcionalidades que aún no necesitas.</p>
+                                </div>
+                                <div class="col h-100">
+                                    <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-toggles2"></i></div>
+                                    <h2 class="h5">Ventaja competitiva y datos estratégicos</h2>
+                                    <p class="mb-0 text-justify">Puedes incluir inteligencia de negocio (KPIs específicos de tu industria, dashboards en tiempo real, alertas predictivas) que no vienen en sistemas genéricos. Además, la información es 100% tuya (sin depender de terceros), y puedes conectar el sistema con tus proveedores, clientes o canales digitales de forma exclusiva, algo difícil de lograr con software empaquetado.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-              </div>
-            </div>
-            <div class="col-lg-4">
-              <img src="<?= base_url ?>assets/img/images/code3.jpg" class="serv-img">
-            </div>
-          </div>
-          <div class="card-footer">
-            <a href="tel:5587403909" class="btn btn-warning"> <i class="fa fa-phone" aria-hidden="true"></i> Cotizar</a>
-            <a href="mailto:desarrollowebem@gmail.com" class="btn btn-success">Enviar Mensaje</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <hr>
-  <div id="" class="row cat-elec">
-    <div class="col-lg-12 bg-light">
-      <div class="card h-100 wow bounceInUp">
-        <div class="card-body">
-          <div class="col-lg-12  row mb-3">
-            <div class="col-lg-6">
-              <h4 class="card-title"><strong>CATALOGO ELECTRONICO</strong></h4>
-              <div class="row">
-                <div class="col-lg-6 text-justify-center">
-                  <ul class="list-unstyled">
-                    <p>Incluye:</p>
-                    <li><i class="fa fa-check" aria-hidden="true"></i> Panel de administrativo</li>
-                    <li><i class="fa fa-check" aria-hidden="true"></i> <strong> Gestión de Inventario (desde panel de administración)</strong></li>
-                    <li><i class="fa fa-check" aria-hidden="true"></i> Buscador de productos en panel de administración filtra por categoría, tipo de producto, numero de parte, nombre y filtro por estado de producto (agotado, en existencia).</li>
-                    <li><i class="fa fa-check" aria-hidden="true"></i> Gestion de categorias para cada tipo y marca de producto</li>
-                    <li><i class="fa fa-check" aria-hidden="true"></i> Seccion de CONTACTO</li>
-                    <li><i class="fa fa-check" aria-hidden="true"></i> Compatibilidad y vista amigable para tus clientes</li>
-                  </ul>
+            </section>
+            <!-- Testimonial section-->
+            <div class="py-5 bg-light">
+                <div class="container px-5 my-5">
+                    <div class="row gx-5 justify-content-center">
+                        <div class="col-lg-10 col-xl-7">
+                            <div class="text-center">
+                                <div class="fs-4 mb-4 fst-italic">"La calidad es mucho más importante que la cantidad"</div>
+                                <div class="d-flex align-items-center justify-content-center">
+                                    <img class="rounded-circle me-3" src="<?=base_url?>assets/img/celebridades/steve-jobs.png" alt="..." width="85" height="60" />
+                                    <div class="fw-bold">
+                                        Steve Jobs
+                                        <span class="fw-bold text-primary mx-1">/</span>
+                                        MAC APPLE
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-              </div>
             </div>
-            <div class="col-lg-6">
-              <img src="<?= base_url ?>assets/img/images/catalogo-productos.png" class="serv-img">
-            </div>
-          </div>
-          <div class="card-footer">
-            <a href="tel:5587403909" class="btn btn-warning"> <i class="fa fa-phone" aria-hidden="true"></i> Cotizar</a>
-            <a href="mailto:desarrollowebem@gmail.com" class="btn btn-success">Enviar Mensaje</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
+            <!-- Blog preview section-->
+            <section class="py-5">
+                <div class="container px-5 my-5">
+                    <div class="row gx-5 justify-content-center">
+                        <div class="col-lg-8 col-xl-6">
+                            <div class="text-center">
+                                <h2 class="fw-bolder">Cotiza tu proyecto</h2>
+                                <p class="lead fw-normal text-muted mb-5">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque fugit ratione dicta mollitia. Officiis ad.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row gx-5">
+                        <div class="col-lg-4 mb-5">
+                            <div class="card h-100 shadow border-0">
+                                <img class="card-img-top" src="<?=base_url?>assets/img/proyectos/desarrollo-web.jpg" alt="..." />
+                                <div class="card-body p-4">
+                                    <div class="badge bg-primary bg-gradient rounded-pill mb-2">Nuevo</div>
+                                    <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">Paginas Web</h5></a>
+                                    <p class="card-text mb-0">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                </div>
+                                <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
+                                    <div class="d-flex align-items-end justify-content-between">
+                                        <div class="d-flex align-items-center">
+                                            <img class="rounded-circle me-3" src="https://dummyimage.com/40x40/ced4da/6c757d" alt="..." />
+                                            <div class="small">
+                                                <div class="fw-bold">Kelly Rowan</div>
+                                                <div class="text-muted">March 12, 2023 &middot; 6 min read</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 mb-5">
+                            <div class="card h-100 shadow border-0">
+                                <img class="card-img-top" src="<?=base_url?>assets/img/proyectos/sistemas-administrables.jpg" alt="..." />
+                                <div class="card-body p-4">
+                                    <div class="badge bg-primary bg-gradient rounded-pill mb-2">Personalizado</div>
+                                    <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">Sistema Administracion</h5></a>
+                                    <p class="card-text mb-0">This text is a bit longer to illustrate the adaptive height of each card. Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                </div>
+                                <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
+                                    <div class="d-flex align-items-end justify-content-between">
+                                        <div class="d-flex align-items-center">
+                                            <img class="rounded-circle me-3" src="https://dummyimage.com/40x40/ced4da/6c757d" alt="..." />
+                                            <div class="small">
+                                                <div class="fw-bold">Josiah Barclay</div>
+                                                <div class="text-muted">March 23, 2023 &middot; 4 min read</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 mb-5">
+                            <div class="card h-100 shadow border-0">
+                                <img class="card-img-top" src="<?=base_url?>assets/img/proyectos/sistemas-punto-de-venta.jpg" alt="..." />
+                                <div class="card-body p-4">
+                                    <div class="badge bg-primary bg-gradient rounded-pill mb-2">A la medida</div>
+                                    <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">Software / Punto de venta</h5></a>
+                                    <p class="card-text mb-0">Some more quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                </div>
+                                <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
+                                    <div class="d-flex align-items-end justify-content-between">
+                                        <div class="d-flex align-items-center">
+                                            <img class="rounded-circle me-3" src="https://dummyimage.com/40x40/ced4da/6c757d" alt="..." />
+                                            <div class="small">
+                                                <div class="fw-bold">Evelyn Martinez</div>
+                                                <div class="text-muted">April 2, 2023 &middot; 10 min read</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Call to action-->
+                    <aside class="bg-primary bg-gradient rounded-3 p-4 p-sm-5 mt-5 ">
+                        <div class="d-flex align-items-center justify-content-between flex-column flex-xl-row text-center text-xl-start ">
+                            <div class="mb-4 mb-xl-0 ">
+                                <div class="fs-3 fw-bold text-white">Recibe todas nuestras noticias y ofertas</div>
+                                <div class="text-white-50">Suscribete registrando tu correo electronico</div>
+                            </div>
+                            <div class="ms-xl-4">
+                                <div class="input-group mb-2">
+                                    <input class="form-control" type="text" placeholder="Ingresa tu email" aria-label="Ingresa tu correo electronico" aria-describedby="button-newsletter" />
+                                    <button class="btn btn-outline-light" id="button-newsletter" type="button">Suscribirme</button>
+                                </div>
+                                <div class="small text-white-50">*AVISO DE PROVACIDAD DERECHOS RESERVADOS*</div>
+                            </div>
+                        </div>
+                    </aside>
+                </div>
+            </section>
+        </main>
 <!-- Messenger Plugin de chat Code -->
     <div id="fb-root"></div>
 
