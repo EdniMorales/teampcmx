@@ -516,3 +516,8 @@ figcaption p:nth-child(1) {
   font-weight: 400;
   font-style: normal;
 }
+/*seccion dev*/
+.sect-dev-1 {
+  margin-top: 2%;
+  margin-bottom: 5%;
+}
