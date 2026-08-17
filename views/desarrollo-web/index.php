@@ -3,7 +3,7 @@
                 <div class="container px-5">
                     <div class="row gx-5 align-items-center justify-content-center">
                         <div class="col-lg-8 col-xl-7 col-xxl-6">
-                            <div class="my-5 text-center text-xl-start">
+                            <div class="my-5  text-xl-start">
                                 <h1 class="display-5 fw-bolder text-white mb-2">Sistemas Administrables a la medida y paginas web</h1>
                                 <h6 class="text-white-50 mb-4">Desarrollamos soluciones digitales personalizadas para tu negocio</h6>
                                 <p class="lead fw-normal text-white-50 mb-4 text-justify">Todo el mundo debe conocer tu negocio, desarrollamos software a la medida de tus necesidades e innovamos lo mejor en el mercado</p>
@@ -18,7 +18,7 @@
                 </div>
             </header>
             <!-- Features section-->
-            <section class="py-5" id="features">
+            <section class="py-5 sect-dev-2 " id="features">
                 <div class="container px-5 my-5">
                     <div class="row gx-5">
                         <div class="col-lg-4 mb-5 mb-lg-0"><h2 class="fw-bolder mb-0">Desarrollo de software a la medida de tu empresa</h2></div>

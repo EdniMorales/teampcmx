@@ -41,7 +41,7 @@
   <div class="row">
     <div class="col-md-12 mb-5">
       <hr class="info-serv-hr">
-      <p class="info-serv text-center">- Conoce nuestros servicios -</p>
+      <p class="info-serv text-center">= Conoce nuestros servicios =</p>
       <hr>
     </div>
   </div>
@@ -253,13 +253,13 @@
           <div class="row">
             <div class="col-md-6">
               <div class="md-form mb-0">
-                <label for="name" class="tit-cli-1">NOMBRE:</label>
+                <label for="name" class="tit-cli-1">Nombre:</label>
                 <input type="text" id="name" name="name" class="form-control">
               </div>
             </div>
             <div class="col-md-6">
               <div class="md-form mb-0">
-                <label for="email" class="tit-cli-1">CORREO ELECTRONICO:</label>
+                <label for="email" class="tit-cli-1">Correo Electronico:</label>
                 <input type="text" id="email" name="email" class="form-control">
               </div>
             </div>
@@ -267,7 +267,7 @@
           <div class="row">
             <div class="col-md-12">
               <div class="md-form mb-0">
-                <label for="subject" class="tit-cli-1">ASUNTO:</label>
+                <label for="subject" class="tit-cli-1">Asunto:</label>
                 <input type="text" id="subject" name="subject" class="form-control">
               </div>
             </div>
@@ -275,7 +275,7 @@
           <div class="row">
             <div class="col-md-12">
               <div class="md-form">
-                <label for="message" class="tit-cli-1">MENSAJE:</label>
+                <label for="message" class="tit-cli-1">Mensaje:</label>
                 <textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea"></textarea>
               </div>
             </div>

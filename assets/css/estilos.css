@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Saira+Semi+Condensed&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@6..144,1..1000&display=swap');
 
 body {
   background-color: #ffffff;
@@ -13,11 +14,11 @@ body {
 }
 .txt-title-intro{
   font-size: 50px;
-  font-family: 'Agbalumo', sans-serif;
+  font-family: "Google Sans Flex", sans-serif;
 }
 .txt-title-intro-2{
   font-size: 30px;
-  font-family: 'Agbalumo', sans-serif;
+  font-family: "Google Sans Flex", sans-serif;
 }
 .masthead {
 height: 600px;
@@ -233,17 +234,17 @@ nav a{
 .tit-cli {
   padding-top: 2%;
   font-size: 50px;
-  font-family: 'Agbalumo', sans-serif;
+  font-family: "Google Sans Flex", sans-serif;
 }
 .tit-cli-steve {
   padding-top: 2%;
   font-size: 25px;
-  font-family: 'Agbalumo', sans-serif;
+  font-family: "Google Sans Flex", sans-serif;
 }
 .tit-cli-1 {
   padding-top: 2%;
   font-size: 15px;
-  font-family: 'Agbalumo', sans-serif;
+  font-family: "Google Sans Flex", sans-serif;
 }
 
 .listas {
@@ -299,7 +300,7 @@ margin-top: 3%;
 }
 .info-serv {
   font-size: 50px;
-  font-family: 'Agbalumo', sans-serif;
+  font-family: "Google Sans Flex", sans-serif;
 }
 
 .carro {
@@ -492,20 +493,20 @@ figcaption p:nth-child(1) {
 
 .txt-foot {
   font-size: 30px;
-  font-family: 'Agbalumo', sans-serif;
+  font-family: "Google Sans Flex", sans-serif;
 }
 
 .txt-foot-1 {
   font-size: 15px;
-  font-family: 'Agbalumo', sans-serif;
+  font-family: "Google Sans Flex", sans-serif;
 }
 .txt-foot-2 {
   font-size: 15px;
-  font-family: 'Agbalumo', sans-serif;
+  font-family: "Google Sans Flex", sans-serif;
 }
 .txt-foot-3 {
   font-size: 15px;
-  font-family: 'Agbalumo', sans-serif;
+  font-family: "Google Sans Flex", sans-serif;
 }
 .cat-elec {
   margin-bottom: 3%;
@@ -520,4 +521,11 @@ figcaption p:nth-child(1) {
 .sect-dev-1 {
   margin-top: 2%;
   margin-bottom: 5%;
+  font-size: 15px;
+  font-family: "Google Sans Flex", sans-serif;
+}
+
+.sect-dev-2{
+  margin-top: -5%;
+  font-family: "Google Sans Flex", sans-serif;
 }
