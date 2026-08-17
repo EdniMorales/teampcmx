@@ -288,7 +288,7 @@
         <div class="status"></div>
       </div>
       <div class="col-md-4 text-center">
-        <p>Escuchanos en Spotify</p>
+        <p class="font-weight-bold tit-cli-1">Escuchanos en Spotify</p>
         <iframe src="https://open.spotify.com/embed/episode/1itr3Kw46p55WzLcjSTxDW?t=1239076" width="100%" height="232"
           frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
       </div>
