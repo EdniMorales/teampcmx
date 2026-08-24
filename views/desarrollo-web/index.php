@@ -52,25 +52,30 @@
                 </div>
             </section>
             <!-- Testimonial section-->
-            <div class="py-5 bg-light">
-                <div class="container px-5 my-5">
-                    <div class="row gx-5 justify-content-center">
-                        <div class="col-lg-10 col-xl-7">
-                            <div class="text-center">
-                                <div class="fs-4 mb-4 fst-italic">"La calidad es mucho más importante que la cantidad"</div>
-                                <div class="d-flex align-items-center justify-content-center">
-                                    <img class="rounded-circle me-3" src="<?=base_url?>assets/img/celebridades/steve-jobs.png" alt="..." width="85" height="60" />
-                                    <div class="fw-bold">
-                                        Steve Jobs
-                                        <span class="fw-bold text-primary mx-1">/</span>
-                                        MAC APPLE
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+<section class="py-5">
+	<div class="container secc-testimonial justify-content-center">
+		<div class="row justify-content-center">
+			<div class="col-lg-10">
+				<div class="row align-items-center">
+					<div class="col-md-4 mb-4 mb-md-0 order-md-2"><img alt="" class="img-fluid rounded-circle" src="https://freefrontend.dev/assets/square-small.png"></div>
+					<div class="col-md-8 ps-md-5">
+						<div class="text-primary mb-4">
+							<svg class="bi bi-quote" fill="currentColor" height="48" viewbox="0 0 16 16" width="48" xmlns="http://www.w3.org/2000/svg">
+							<path d="M12 12a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1h-1.388c0-.351.021-.703.062-1.054.062-.372.166-.703.31-.992.145-.29.331-.517.559-.683.227-.186.516-.279.868-.279V3c-.579 0-1.085.124-1.52.372a3.322 3.322 0 0 0-1.085.992 4.92 4.92 0 0 0-.62 1.458A7.712 7.712 0 0 0 9 7.558V11a1 1 0 0 0 1 1h2Zm-6 0a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1H4.612c0-.351.021-.703.062-1.054.062-.372.166-.703.31-.992.145-.29.331-.517.559-.683.227-.186.516-.279.868-.279V3c-.579 0-1.085.124-1.52.372a3.322 3.322 0 0 0-1.085.992 4.92 4.92 0 0 0-.62 1.458A7.712 7.712 0 0 0 3 7.558V11a1 1 0 0 0 1 1h2Z"></path></svg>
+						</div>
+						<p>"La calidad es mucho más importante que la cantidad"</p>
+						<h5 class="fw-bold">Steve Jobs</h5>
+						<div class="text-muted">
+							Apple Inc. Co-founder and former CEO
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
             <!-- Blog preview section-->
             <section class="py-5">
                 <div class="container px-5 my-5">
@@ -88,8 +93,23 @@
                                 <img class="card-img-top" src="<?=base_url?>assets/img/proyectos/desarrollo-web.jpg" alt="..." />
                                 <div class="card-body p-4">
                                     <div class="badge bg-primary bg-gradient rounded-pill mb-2">Nuevo</div>
-                                    <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">Paginas Web</h5></a>
-                                    <p class="card-text mb-0">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                    <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">Diseño y Creación de Páginas Web</h5></a>
+                                    <p class="card-text text-justify mb-0">En Gorilla System creamos páginas web modernas, rápidas y adaptadas a las necesidades de tu negocio.
+                                    <div class="" style="">
+                                        <div class="card-header">
+                                            Nuestros servicios incluyen:
+                                        </div>
+                                        <ul class="list-group list-group-flush">
+                                            <li class="list-group-item">Diseño y desarrollo de páginas web.</li>
+                                            <li class="list-group-item">Sitios adaptables a dispositivos móviles.</li>
+                                            <li class="list-group-item">Catálogos de productos y servicios.</li>
+                                            <li class="list-group-item">Formularios de contacto y botones de WhatsApp.</li>
+                                            <li class="list-group-item">Integración con redes sociales.</li>
+                                            <li class="list-group-item">Dominio y alojamiento web.</li>
+                                            <li class="list-group-item">Mantenimiento y actualizaciones.</li>
+                                            <li class="list-group-item">Optimización básica para buscadores (SEO).</li>
+                                        </ul>
+                                    </div>
                                 </div>
                                 <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                                     <div class="d-flex align-items-end justify-content-between">

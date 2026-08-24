@@ -4,6 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@6..144,1..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Story+Script&display=swap');
 
 body {
   background-color: #ffffff;
@@ -525,7 +526,18 @@ figcaption p:nth-child(1) {
   font-family: "Google Sans Flex", sans-serif;
 }
 
-.sect-dev-2{
+.sect-dev-2   {
   margin-top: -5%;
   font-family: "Google Sans Flex", sans-serif;
+}
+.story-script-regular {
+  font-family: "Story Script", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.secc-testimonial{
+  margin-top: 5%; 
+    font-family: "Story Script", sans-serif;
+     font-size: 200%;
 }
