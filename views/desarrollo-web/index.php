@@ -1,7 +1,4 @@
-
-
-
-            <header class="sect-dev-1 bg-dark py-5">
+<header class="sect-dev-1 bg-dark py-5">
                 <div class="container px-5">
                     <div class="row gx-5 align-items-center justify-content-center">
                         <div class="col-lg-8 col-xl-7 col-xxl-6">
@@ -57,7 +54,7 @@
 		<div class="row justify-content-center">
 			<div class="col-lg-10">
 				<div class="row align-items-center">
-					<div class="col-md-4 mb-4 mb-md-0 order-md-2"><img alt="" class="img-fluid rounded-circle" src="https://freefrontend.dev/assets/square-small.png"></div>
+					<div class="col-md-4 mb-4 mb-md-0 order-md-2"><img alt="" class="img-fluid rounded-circle" src="<?=base_url?>assets/img/celebridades/steve-jobs.png"></div>
 					<div class="col-md-8 ps-md-5">
 						<div class="text-primary mb-4">
 							<svg class="bi bi-quote" fill="currentColor" height="48" viewbox="0 0 16 16" width="48" xmlns="http://www.w3.org/2000/svg">

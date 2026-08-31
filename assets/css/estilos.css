@@ -541,3 +541,32 @@ figcaption p:nth-child(1) {
     font-family: "Story Script", sans-serif;
      font-size: 200%;
 }
+
+
+    .card-minimalista {
+      width: 320px;
+      border: none;
+      border-radius: 18px;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .card-minimalista:hover {
+      transform: translateY(-6px);
+      box-shadow: 0 15px 35px rgba(0, 0, 0, 0.12);
+    }
+
+    .card-minimalista .card-title {
+      font-weight: 700;
+      color: #222;
+    }
+
+    .card-minimalista .card-text {
+      color: #666;
+      font-size: 15px;
+    }
+
+    .btn-minimalista {
+      border-radius: 30px;
+      padding: 8px 20px;
+    }
