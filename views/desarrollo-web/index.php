@@ -49,8 +49,8 @@
                 </div>
             </section>
             <!-- Testimonial section-->
-<section class="py-5">
-	<div class="container secc-testimonial justify-content-center">
+<section class="py-5 secc-testimonial">
+	<div class="container  justify-content-center">
 		<div class="row justify-content-center">
 			<div class="col-lg-10">
 				<div class="row align-items-center">
@@ -71,8 +71,6 @@
 		</div>
 	</div>
 </section>
-
-
             <!-- Blog preview section-->
             <section class="py-5">
                 <div class="container px-5 my-5">

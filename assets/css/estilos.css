@@ -480,18 +480,15 @@ figcaption p:nth-child(1) {
     margin-bottom: 20px;
   }
 }
-
 .tira-mag img {
   /*   border: 1px solid red; */
   width: 195px;
   height: 195px;
 }
-
 .serv-img {
   width: 100%;
   height: 100%
 }
-
 .txt-foot {
   font-size: 30px;
   font-family: "Google Sans Flex", sans-serif;
@@ -512,7 +509,6 @@ figcaption p:nth-child(1) {
 .cat-elec {
   margin-bottom: 3%;
 }
-
 .agbalumo-regular {
   font-family: "Agbalumo", system-ui;
   font-weight: 400;
@@ -525,7 +521,6 @@ figcaption p:nth-child(1) {
   font-size: 15px;
   font-family: "Google Sans Flex", sans-serif;
 }
-
 .sect-dev-2   {
   margin-top: -5%;
   font-family: "Google Sans Flex", sans-serif;
@@ -535,48 +530,43 @@ figcaption p:nth-child(1) {
   font-weight: 400;
   font-style: normal;
 }
-
 .secc-testimonial{
-  margin-top: 5%; 
-    font-family: "Story Script", sans-serif;
-     font-size: 200%;
+  background-color: #ecf0f1;
+  margin-top: 2%; 
+  font-family: "Story Script", sans-serif;
+  font-size: 200%;
+  padding-top: 5%;
+  padding-bottom: 5%;
 }
-
-
-    .card-minimalista {
+.card-minimalista {
       width: 320px;
       border: none;
       border-radius: 18px;
       box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
       transition: transform 0.3s ease, box-shadow 0.3s ease;
     }
-
-    .card-minimalista:hover {
+.card-minimalista:hover {
       transform: translateY(-6px);
       box-shadow: 0 15px 35px rgba(0, 0, 0, 0.12);
     }
-
-    .card-minimalista .card-title {
+.card-minimalista .card-title {
       font-weight: 700;
       color: #222;
     }
-
-    .card-minimalista .card-text {
+.card-minimalista .card-text {
       color: #666;
       font-size: 15px;
     }
-
-    .btn-minimalista {
+.btn-minimalista {
       border-radius: 30px;
       padding: 8px 20px;
     }
-
-    .stilo-sec-web{
+.stilo-sec-web{
       margin-top: 2%;
       font-size: 15px;
       font-family: "Google Sans Flex", sans-serif;
     }
-      .stilo-sec-web-1{
+  .stilo-sec-web-1{
       margin-top: 5%;
       font-size: 15px;
       font-family: "Google Sans Flex", sans-serif;
