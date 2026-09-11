@@ -8,7 +8,7 @@
                                 <p class="lead fw-normal text-white-50 mb-4 text-justify">Todo el mundo debe conocer tu negocio, desarrollamos software a la medida de tus necesidades e innovamos lo mejor en el mercado</p>
                                 <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
                                     <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Cotiza ahora</a>
-                                    <a class="btn btn-outline-light btn-lg px-4" href="#!">Conocenos</a>
+                            
                                 </div>
                             </div>
                         </div>
@@ -89,10 +89,14 @@
                             <div class="card h-100 shadow border-0">
                                 <img class="card-img-top" src="<?=base_url?>assets/img/proyectos/desarrollo-web.jpg" alt="..." />
                                 <div class="card-body p-4">
-                                    <div class="badge bg-primary bg-gradient rounded-pill mb-2">Nuevo</div>
-                                    <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">Diseño y Creación de Páginas Web</h5></a>
-                                    <p class="card-text text-justify mb-0">En Gorilla System creamos páginas web modernas, rápidas y adaptadas a las necesidades de tu negocio.
-                                    <div class="" style="">
+                                   <!--  <div class="badge bg-primary bg-gradient rounded-pill mb-2">Nuevo</div> -->
+                                <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">Diseño y Creación de Páginas Web</h5>
+                                </a>
+                                <div class="stilo-sec-web"> 
+                                    <p class="card-text text-justify mb-0">En Gorilla System creamos páginas web modernas, rápidas y adaptadas a las necesidades de tu negocio.</p>
+                                </div>
+
+                          <!--           <div class="" style="">
                                         <div class="card-header">
                                             Nuestros servicios incluyen:
                                         </div>
@@ -107,8 +111,23 @@
                                             <li class="list-group-item">Optimización básica para buscadores (SEO).</li>
                                         </ul>
                                     </div>
+ -->
+                                            <div class="stilo-sec-web-1">
+                                        <ul class="list-group">
+                                            <li class="list-group-item list-group-item-primary">Diseño y desarrollo de páginas web.</li>
+                                            <li class="list-group-item list-group-item-primary">Sitios adaptables a dispositivos móviles.</li>
+                                            <li class="list-group-item list-group-item-primary">Formularios de contacto y botones de WhatsApp.</li>
+                                            <li class="list-group-item list-group-item-primary">Integración con redes sociales.</li>
+                                            <li class="list-group-item list-group-item-primary">Dominio y alojamiento web.</li>
+                                            <li class="list-group-item list-group-item-primary">Mantenimiento y actualizaciones.</li>
+                                            <li class="list-group-item list-group-item-primary">Optimización básica para buscadores (SEO).</li>
+                                        </ul>
                                 </div>
-                                <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
+
+
+
+                                </div>
+                          <!--       <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                                     <div class="d-flex align-items-end justify-content-between">
                                         <div class="d-flex align-items-center">
                                             <img class="rounded-circle me-3" src="https://dummyimage.com/40x40/ced4da/6c757d" alt="..." />
@@ -118,18 +137,18 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="col-lg-4 mb-5">
                             <div class="card h-100 shadow border-0">
                                 <img class="card-img-top" src="<?=base_url?>assets/img/proyectos/sistemas-administrables.jpg" alt="..." />
                                 <div class="card-body p-4">
-                                    <div class="badge bg-primary bg-gradient rounded-pill mb-2">Personalizado</div>
+                                  <!--   <div class="badge bg-primary bg-gradient rounded-pill mb-2">Personalizado</div> -->
                                     <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">Sistema Administracion</h5></a>
-                                    <p class="card-text mb-0">This text is a bit longer to illustrate the adaptive height of each card. Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                    <p class="card-text mb-0 text-justify">En Teampcmx desarrollamos sistemas administrativos personalizados que ayudan a las empresas a organizar, controlar y optimizar sus procesos de trabajo.Creamos soluciones adaptadas a las necesidades de cada negocio, facilitando la administración de información y reduciendo tareas manuales mediante herramientas digitales prácticas, seguras y fáciles de utilizar.Nuestros sistemas pueden incluir funciones como control de clientes, inventarios, ventas, compras, proveedores, usuarios, reportes, cotizaciones y seguimiento de operaciones, entre otras.En Teampcmx desarrollamos tecnología pensando en las necesidades reales de tu empresa.Digitaliza tus procesos, mejora el control de tu negocio y administra tu información desde un solo lugar.</p>
                                 </div>
-                                <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
+                              <!--   <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                                     <div class="d-flex align-items-end justify-content-between">
                                         <div class="d-flex align-items-center">
                                             <img class="rounded-circle me-3" src="https://dummyimage.com/40x40/ced4da/6c757d" alt="..." />
@@ -139,18 +158,18 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="col-lg-4 mb-5">
                             <div class="card h-100 shadow border-0">
                                 <img class="card-img-top" src="<?=base_url?>assets/img/proyectos/sistemas-punto-de-venta.jpg" alt="..." />
                                 <div class="card-body p-4">
-                                    <div class="badge bg-primary bg-gradient rounded-pill mb-2">A la medida</div>
+                                   <!--  <div class="badge bg-primary bg-gradient rounded-pill mb-2">A la medida</div> -->
                                     <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">Software / Punto de venta</h5></a>
                                     <p class="card-text mb-0">Some more quick example text to build on the card title and make up the bulk of the card's content.</p>
                                 </div>
-                                <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
+                        <!--         <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                                     <div class="d-flex align-items-end justify-content-between">
                                         <div class="d-flex align-items-center">
                                             <img class="rounded-circle me-3" src="https://dummyimage.com/40x40/ced4da/6c757d" alt="..." />
@@ -160,7 +179,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>

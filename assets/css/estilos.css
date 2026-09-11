@@ -570,3 +570,14 @@ figcaption p:nth-child(1) {
       border-radius: 30px;
       padding: 8px 20px;
     }
+
+    .stilo-sec-web{
+      margin-top: 2%;
+      font-size: 15px;
+      font-family: "Google Sans Flex", sans-serif;
+    }
+      .stilo-sec-web-1{
+      margin-top: 5%;
+      font-size: 15px;
+      font-family: "Google Sans Flex", sans-serif;
+    }
