@@ -88,10 +88,10 @@
                                 <img class="card-img-top" src="<?=base_url?>assets/img/proyectos/desarrollo-web.jpg" alt="..." />
                                 <div class="card-body p-4">
                                    <!--  <div class="badge bg-primary bg-gradient rounded-pill mb-2">Nuevo</div> -->
-                                <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">Diseño y Creación de Páginas Web</h5>
+                                <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3 text-center">Diseño y Creación de Páginas Web</h5>
                                 </a>
                                 <div class="stilo-sec-web"> 
-                                    <p class="card-text text-justify mb-0">En Gorilla System creamos páginas web modernas, rápidas y adaptadas a las necesidades de tu negocio.</p>
+                                    <p class="card-text text-justify mb-0">Creamos páginas web modernas, rápidas y adaptadas a las necesidades de tu negocio.</p>
                                 </div>
 
                           <!--           <div class="" style="">
@@ -143,8 +143,8 @@
                                 <img class="card-img-top" src="<?=base_url?>assets/img/proyectos/sistemas-administrables.jpg" alt="..." />
                                 <div class="card-body p-4">
                                   <!--   <div class="badge bg-primary bg-gradient rounded-pill mb-2">Personalizado</div> -->
-                                    <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">Sistema Administracion</h5></a>
-                                    <p class="card-text mb-0 text-justify">En Teampcmx desarrollamos sistemas administrativos personalizados que ayudan a las empresas a organizar, controlar y optimizar sus procesos de trabajo.Creamos soluciones adaptadas a las necesidades de cada negocio, facilitando la administración de información y reduciendo tareas manuales mediante herramientas digitales prácticas, seguras y fáciles de utilizar.Nuestros sistemas pueden incluir funciones como control de clientes, inventarios, ventas, compras, proveedores, usuarios, reportes, cotizaciones y seguimiento de operaciones, entre otras.En Teampcmx desarrollamos tecnología pensando en las necesidades reales de tu empresa.Digitaliza tus procesos, mejora el control de tu negocio y administra tu información desde un solo lugar.</p>
+                                    <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3 text-center">Sistema Administracion</h5></a>
+                                    <p class="card-text mb-0 text-justify">Desarrollamos sistemas administrativos personalizados que ayudan a las empresas a organizar, controlar y optimizar sus procesos de trabajo.Creamos soluciones adaptadas a las necesidades de cada negocio, facilitando la administración de información y reduciendo tareas manuales mediante herramientas digitales prácticas, seguras y fáciles de utilizar.Nuestros sistemas pueden incluir funciones como control de clientes, inventarios, ventas, compras, proveedores, usuarios, reportes, cotizaciones y seguimiento de operaciones, entre otras.En Teampcmx desarrollamos tecnología pensando en las necesidades reales de tu empresa.Digitaliza tus procesos, mejora el control de tu negocio y administra tu información desde un solo lugar.</p>
                                 </div>
                               <!--   <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                                     <div class="d-flex align-items-end justify-content-between">
@@ -164,8 +164,15 @@
                                 <img class="card-img-top" src="<?=base_url?>assets/img/proyectos/sistemas-punto-de-venta.jpg" alt="..." />
                                 <div class="card-body p-4">
                                    <!--  <div class="badge bg-primary bg-gradient rounded-pill mb-2">A la medida</div> -->
-                                    <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">Software / Punto de venta</h5></a>
-                                    <p class="card-text mb-0">Some more quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                    <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3 text-center
+                                ">Software / Punto de venta</h5></a>
+                                    <p class="card-text mb-0 text-justify">Implementamos y desarrollamos sistemas de Punto de Venta (POS) y soluciones Multicaja adaptadas a las necesidades de cada negocio.
+
+Nuestras soluciones permiten administrar de manera eficiente ventas, productos, inventarios, clientes, usuarios, cajas y sucursales, facilitando el control de las operaciones desde un sistema práctico y confiable.
+
+Desarrollamos sistemas para negocios que requieren desde una sola caja hasta múltiples puntos de venta, permitiendo centralizar la información y tener un mejor control de las operaciones.
+
+Además, ofrecemos asesoría para integrar el equipo y software necesario, como computadoras, lectores de códigos de barras, impresoras de tickets y otros dispositivos para tu punto de venta.</p>
                                 </div>
                         <!--         <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                                     <div class="d-flex align-items-end justify-content-between">
