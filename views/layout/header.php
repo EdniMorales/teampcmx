@@ -90,11 +90,12 @@
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
      <div class="dropdown-divider"></div>
-      <img src="<?= base_url ?>assets/img/extrapos.svg" width="100%" height="90"  class="" alt="">Proximamente
-        <a class="dropdown-item" href="#">Extrapos</a>
-           <a class="dropdown-item" href="#">Another action</a> 
+     <a class="dropdown-item" href="#">
+      <img src="<?= base_url ?>assets/img/extrapos.svg" width="100%" height="50"  class="" alt="">
+        </a>
+<!--            <a class="dropdown-item" href="#">Another action</a> 
         <div class="dropdown-divider"></div> 
-       <a class="dropdown-item" href="#">Something else here</a> 
+       <a class="dropdown-item" href="#">Something else here</a>  -->
         </div>
       </li> 
             <!--   <li class="nav-item">
