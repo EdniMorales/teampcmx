@@ -75,9 +75,6 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
 
-                  <li class="nav-item">
-              <a class="menu-list" href="<?= base_url ?>desarrollo/index">Gorilla System</a>
-            </li>
             <!--    <li class="nav-item active">
         <a class="menu-list" href="#"> <span class="sr-only">(current)</span></a>
       </li>  -->
@@ -88,6 +85,9 @@
         <a class="menu-list dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Punto de Venta
         </a>
+
+
+
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
      <div class="dropdown-divider"></div>
      <a class="dropdown-item" href="#">
@@ -98,6 +98,11 @@
        <a class="dropdown-item" href="#">Something else here</a>  -->
         </div>
       </li> 
+
+      
+                  <li class="nav-item">
+              <a class="menu-list" href="<?= base_url ?>desarrollo/index">Gorilla System</a>
+            </li>
             <!--   <li class="nav-item">
               <a class="menu-list" href="<?= base_url ?>Soporte/index" style="">SOPORTE TECNICO</a>
             </li> -->
